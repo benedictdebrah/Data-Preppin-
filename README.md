@@ -14,5 +14,5 @@ Code for the Preppin' Data Challenge, a weekly challenge on preparing/reshaping 
 |Week|Challenge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Challenge<br>Description|My Solutions|Video<br>Walkthroughs|
 |-:|:--------------------------------------------------|:-:|:-:|:-:|
 |1|The Data Source Bank|[📋](####)|[✅](https://github.com/benedictdebrah/Data-Preppin-/tree/main/W1)||
-|1|International Bank Account|[📋](####)|[✅](https://github.com/benedictdebrah/Data-Preppin-/tree/main/W1)||
+|1|International Bank Account|[📋](####)|[✅](https://github.com/benedictdebrah/Data-Preppin-/tree/main/W2)|https://youtu.be/I66brI3AF8w|
 

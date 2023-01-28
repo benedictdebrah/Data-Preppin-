@@ -1,0 +1,2971 @@
+,ID,Demographic,Value,Joining Date
+0,490910,Ethnicity,White,2023-01-03
+1,490910,Date of Birth,5/23/1981,2023-01-03
+2,490910,Account Type,Basic,2023-01-03
+3,369221,Ethnicity,Black,2023-01-18
+4,369221,Date of Birth,3/4/2019,2023-01-18
+5,369221,Account Type,Platinum,2023-01-18
+6,568991,Ethnicity,White,2023-01-16
+7,568991,Date of Birth,4/27/1979,2023-01-16
+8,568991,Account Type,Gold,2023-01-16
+9,191607,Ethnicity,White,2023-01-09
+10,191607,Date of Birth,3/15/1963,2023-01-09
+11,191607,Account Type,Gold,2023-01-09
+12,612794,Ethnicity,Asian,2023-01-29
+13,612794,Date of Birth,11/12/1981,2023-01-29
+14,612794,Account Type,Basic,2023-01-29
+15,863243,Ethnicity,Other,2023-01-01
+16,863243,Date of Birth,12/30/2007,2023-01-01
+17,863243,Account Type,Platinum,2023-01-01
+18,893948,Ethnicity,White,2023-01-01
+19,893948,Date of Birth,9/1/2013,2023-01-01
+20,893948,Account Type,Gold,2023-01-01
+21,784685,Ethnicity,White,2023-01-29
+22,784685,Date of Birth,6/17/1968,2023-01-29
+23,784685,Account Type,Platinum,2023-01-29
+24,871764,Ethnicity,White,2023-01-02
+25,871764,Date of Birth,10/29/1967,2023-01-02
+26,871764,Account Type,Gold,2023-01-02
+27,119237,Ethnicity,Other,2023-01-15
+28,119237,Date of Birth,9/18/2012,2023-01-15
+29,119237,Account Type,Platinum,2023-01-15
+30,527712,Ethnicity,White,2023-01-02
+31,527712,Date of Birth,9/27/1996,2023-01-02
+32,527712,Account Type,Platinum,2023-01-02
+33,806804,Ethnicity,Other,2023-01-28
+34,806804,Date of Birth,10/5/1948,2023-01-28
+35,806804,Account Type,Basic,2023-01-28
+36,604893,Ethnicity,White,2023-01-04
+37,604893,Date of Birth,11/10/1959,2023-01-04
+38,604893,Account Type,Platinum,2023-01-04
+39,683051,Ethnicity,Black,2023-01-13
+40,683051,Date of Birth,7/8/1957,2023-01-13
+41,683051,Account Type,Basic,2023-01-13
+42,772826,Ethnicity,White,2023-01-28
+43,772826,Date of Birth,8/29/1978,2023-01-28
+44,772826,Account Type,Basic,2023-01-28
+45,201696,Ethnicity,Asian,2023-01-14
+46,201696,Date of Birth,2/5/1996,2023-01-14
+47,201696,Account Type,Gold,2023-01-14
+48,742071,Ethnicity,White,2023-01-19
+49,742071,Date of Birth,9/22/1968,2023-01-19
+50,742071,Account Type,Platinum,2023-01-19
+51,491519,Ethnicity,Asian,2023-01-10
+52,491519,Date of Birth,4/4/1955,2023-01-10
+53,491519,Account Type,Gold,2023-01-10
+54,957631,Ethnicity,Black,2023-01-29
+55,957631,Date of Birth,6/19/1956,2023-01-29
+56,957631,Account Type,Basic,2023-01-29
+57,548577,Ethnicity,White,2023-01-23
+58,548577,Date of Birth,5/9/1962,2023-01-23
+59,548577,Account Type,Basic,2023-01-23
+60,471554,Ethnicity,White,2023-01-02
+61,471554,Date of Birth,4/22/1990,2023-01-02
+62,471554,Account Type,Basic,2023-01-02
+63,716354,Ethnicity,Black,2023-01-10
+64,716354,Date of Birth,12/18/1997,2023-01-10
+65,716354,Account Type,Gold,2023-01-10
+66,246208,Ethnicity,White,2023-01-04
+67,246208,Date of Birth,9/11/1996,2023-01-04
+68,246208,Account Type,Platinum,2023-01-04
+69,543545,Ethnicity,Asian,2023-01-08
+70,543545,Date of Birth,8/30/1986,2023-01-08
+71,543545,Account Type,Basic,2023-01-08
+72,733667,Ethnicity,Black,2023-01-20
+73,733667,Date of Birth,11/15/1944,2023-01-20
+74,733667,Account Type,Platinum,2023-01-20
+75,174968,Ethnicity,Other,2023-01-10
+76,174968,Date of Birth,9/30/1980,2023-01-10
+77,174968,Account Type,Platinum,2023-01-10
+78,626975,Ethnicity,Black,2023-01-27
+79,626975,Date of Birth,10/4/1948,2023-01-27
+80,626975,Account Type,Basic,2023-01-27
+81,721471,Ethnicity,Other,2023-01-31
+82,721471,Date of Birth,8/17/1985,2023-01-31
+83,721471,Account Type,Platinum,2023-01-31
+84,349505,Ethnicity,White,2023-01-03
+85,349505,Date of Birth,9/13/1961,2023-01-03
+86,349505,Account Type,Basic,2023-01-03
+87,806648,Ethnicity,Other,2023-01-29
+88,806648,Date of Birth,8/20/1986,2023-01-29
+89,806648,Account Type,Platinum,2023-01-29
+90,602662,Ethnicity,Other,2023-01-09
+91,602662,Date of Birth,3/7/1958,2023-01-09
+92,602662,Account Type,Basic,2023-01-09
+93,472457,Ethnicity,Black,2023-01-19
+94,472457,Date of Birth,1/30/1991,2023-01-19
+95,472457,Account Type,Gold,2023-01-19
+96,591154,Ethnicity,Black,2023-01-23
+97,591154,Date of Birth,12/1/2002,2023-01-23
+98,591154,Account Type,Basic,2023-01-23
+99,899966,Ethnicity,White,2023-01-05
+100,899966,Date of Birth,2/13/2015,2023-01-05
+101,899966,Account Type,Gold,2023-01-05
+102,761244,Ethnicity,White,2023-01-02
+103,761244,Date of Birth,12/26/1942,2023-01-02
+104,761244,Account Type,Platinum,2023-01-02
+105,276875,Ethnicity,Black,2023-01-14
+106,276875,Date of Birth,8/27/1989,2023-01-14
+107,276875,Account Type,Gold,2023-01-14
+108,223982,Ethnicity,White,2023-01-04
+109,223982,Date of Birth,8/12/1956,2023-01-04
+110,223982,Account Type,Gold,2023-01-04
+111,777515,Ethnicity,White,2023-01-31
+112,777515,Date of Birth,4/3/1989,2023-01-31
+113,777515,Account Type,Basic,2023-01-31
+114,611859,Ethnicity,Other,2023-01-18
+115,611859,Date of Birth,12/2/1977,2023-01-18
+116,611859,Account Type,Platinum,2023-01-18
+117,139746,Ethnicity,Black,2023-01-19
+118,139746,Date of Birth,2/27/1948,2023-01-19
+119,139746,Account Type,Gold,2023-01-19
+120,189787,Ethnicity,Black,2023-01-20
+121,189787,Date of Birth,5/12/1986,2023-01-20
+122,189787,Account Type,Basic,2023-01-20
+123,580145,Ethnicity,Asian,2023-01-13
+124,580145,Date of Birth,11/14/2015,2023-01-13
+125,580145,Account Type,Basic,2023-01-13
+126,754791,Ethnicity,Other,2023-01-03
+127,754791,Date of Birth,7/17/1952,2023-01-03
+128,754791,Account Type,Basic,2023-01-03
+129,809513,Ethnicity,Black,2023-01-06
+130,809513,Date of Birth,1/1/1951,2023-01-06
+131,809513,Account Type,Basic,2023-01-06
+132,596604,Ethnicity,Asian,2023-01-17
+133,596604,Date of Birth,4/29/2000,2023-01-17
+134,596604,Account Type,Gold,2023-01-17
+135,691378,Ethnicity,Other,2023-01-27
+136,691378,Date of Birth,12/7/1979,2023-01-27
+137,691378,Account Type,Basic,2023-01-27
+138,483606,Ethnicity,Other,2023-01-14
+139,483606,Date of Birth,7/3/1941,2023-01-14
+140,483606,Account Type,Platinum,2023-01-14
+141,673141,Ethnicity,White,2023-01-19
+142,673141,Date of Birth,12/30/1955,2023-01-19
+143,673141,Account Type,Gold,2023-01-19
+144,547679,Ethnicity,White,2023-01-11
+145,547679,Date of Birth,2/7/1949,2023-01-11
+146,547679,Account Type,Basic,2023-01-11
+147,850402,Ethnicity,Other,2023-01-23
+148,850402,Date of Birth,9/17/1991,2023-01-23
+149,850402,Account Type,Gold,2023-01-23
+150,427577,Ethnicity,Asian,2023-01-10
+151,427577,Date of Birth,1/6/1971,2023-01-10
+152,427577,Account Type,Basic,2023-01-10
+153,755120,Ethnicity,Other,2023-01-12
+154,755120,Date of Birth,7/6/1984,2023-01-12
+155,755120,Account Type,Platinum,2023-01-12
+156,806747,Ethnicity,Other,2023-01-05
+157,806747,Date of Birth,5/31/2007,2023-01-05
+158,806747,Account Type,Basic,2023-01-05
+159,801438,Ethnicity,Asian,2023-01-31
+160,801438,Date of Birth,6/20/1950,2023-01-31
+161,801438,Account Type,Basic,2023-01-31
+162,960368,Ethnicity,Asian,2023-01-26
+163,960368,Date of Birth,9/5/1997,2023-01-26
+164,960368,Account Type,Platinum,2023-01-26
+165,673358,Ethnicity,Other,2023-01-12
+166,673358,Date of Birth,1/14/2014,2023-01-12
+167,673358,Account Type,Platinum,2023-01-12
+168,306487,Ethnicity,Black,2023-01-14
+169,306487,Date of Birth,6/26/1970,2023-01-14
+170,306487,Account Type,Basic,2023-01-14
+171,467914,Ethnicity,Asian,2023-01-25
+172,467914,Date of Birth,2/25/1990,2023-01-25
+173,467914,Account Type,Gold,2023-01-25
+174,155713,Ethnicity,White,2023-01-12
+175,155713,Date of Birth,7/3/2009,2023-01-12
+176,155713,Account Type,Platinum,2023-01-12
+177,596558,Ethnicity,Black,2023-01-17
+178,596558,Date of Birth,3/22/1951,2023-01-17
+179,596558,Account Type,Gold,2023-01-17
+180,888481,Ethnicity,Other,2023-01-11
+181,888481,Date of Birth,10/14/2017,2023-01-11
+182,888481,Account Type,Basic,2023-01-11
+183,785116,Ethnicity,White,2023-01-24
+184,785116,Date of Birth,11/25/1957,2023-01-24
+185,785116,Account Type,Gold,2023-01-24
+186,102704,Ethnicity,Black,2023-01-23
+187,102704,Date of Birth,3/9/2000,2023-01-23
+188,102704,Account Type,Basic,2023-01-23
+189,714800,Ethnicity,Asian,2023-01-26
+190,714800,Date of Birth,6/25/1974,2023-01-26
+191,714800,Account Type,Basic,2023-01-26
+192,311919,Ethnicity,Other,2023-01-04
+193,311919,Date of Birth,6/26/1961,2023-01-04
+194,311919,Account Type,Gold,2023-01-04
+195,806735,Ethnicity,Asian,2023-01-11
+196,806735,Date of Birth,4/15/1945,2023-01-11
+197,806735,Account Type,Platinum,2023-01-11
+198,711747,Ethnicity,White,2023-01-30
+199,711747,Date of Birth,9/28/1940,2023-01-30
+200,711747,Account Type,Gold,2023-01-30
+201,920752,Ethnicity,White,2023-01-04
+202,920752,Date of Birth,9/1/1990,2023-01-04
+203,920752,Account Type,Gold,2023-01-04
+204,888532,Ethnicity,White,2023-01-17
+205,888532,Date of Birth,1/11/2013,2023-01-17
+206,888532,Account Type,Gold,2023-01-17
+207,177159,Ethnicity,White,2023-01-11
+208,177159,Date of Birth,11/10/1953,2023-01-11
+209,177159,Account Type,Basic,2023-01-11
+210,845293,Ethnicity,Black,2023-01-02
+211,845293,Date of Birth,5/28/1946,2023-01-02
+212,845293,Account Type,Platinum,2023-01-02
+213,994611,Ethnicity,Black,2023-01-10
+214,994611,Date of Birth,6/19/1994,2023-01-10
+215,994611,Account Type,Basic,2023-01-10
+216,554004,Ethnicity,Asian,2023-01-27
+217,554004,Date of Birth,7/20/1997,2023-01-27
+218,554004,Account Type,Gold,2023-01-27
+219,933040,Ethnicity,Asian,2023-01-16
+220,933040,Date of Birth,12/12/1991,2023-01-16
+221,933040,Account Type,Gold,2023-01-16
+222,929308,Ethnicity,Other,2023-01-05
+223,929308,Date of Birth,10/19/2004,2023-01-05
+224,929308,Account Type,Basic,2023-01-05
+225,314042,Ethnicity,Asian,2023-01-05
+226,314042,Date of Birth,12/26/1986,2023-01-05
+227,314042,Account Type,Platinum,2023-01-05
+228,829199,Ethnicity,Other,2023-01-05
+229,829199,Date of Birth,1/25/1978,2023-01-05
+230,829199,Account Type,Basic,2023-01-05
+231,731003,Ethnicity,White,2023-01-13
+232,731003,Date of Birth,9/16/1941,2023-01-13
+233,731003,Account Type,Platinum,2023-01-13
+234,176024,Ethnicity,Other,2023-01-14
+235,176024,Date of Birth,12/26/1999,2023-01-14
+236,176024,Account Type,Gold,2023-01-14
+237,943375,Ethnicity,Other,2023-01-24
+238,943375,Date of Birth,7/26/1958,2023-01-24
+239,943375,Account Type,Platinum,2023-01-24
+240,813344,Ethnicity,White,2023-01-20
+241,813344,Date of Birth,11/4/1966,2023-01-20
+242,813344,Account Type,Gold,2023-01-20
+243,840464,Ethnicity,Asian,2023-01-06
+244,840464,Date of Birth,7/18/1968,2023-01-06
+245,840464,Account Type,Gold,2023-01-06
+246,674869,Ethnicity,Asian,2023-01-13
+247,674869,Date of Birth,6/6/1991,2023-01-13
+248,674869,Account Type,Platinum,2023-01-13
+0,473692,Ethnicity,White,2023-02-20
+1,473692,Date of Birth,3/23/2012,2023-02-20
+2,473692,Account Type,Basic,2023-02-20
+3,150853,Ethnicity,Other,2023-02-05
+4,150853,Date of Birth,7/9/1991,2023-02-05
+5,150853,Account Type,Basic,2023-02-05
+6,627428,Ethnicity,White,2023-02-01
+7,627428,Date of Birth,11/5/2018,2023-02-01
+8,627428,Account Type,Platinum,2023-02-01
+9,606864,Ethnicity,Other,2023-02-08
+10,606864,Date of Birth,10/5/1945,2023-02-08
+11,606864,Account Type,Platinum,2023-02-08
+12,664634,Ethnicity,Black,2023-02-06
+13,664634,Date of Birth,3/5/1952,2023-02-06
+14,664634,Account Type,Basic,2023-02-06
+15,315439,Ethnicity,White,2023-02-09
+16,315439,Date of Birth,5/23/1999,2023-02-09
+17,315439,Account Type,Basic,2023-02-09
+18,712911,Ethnicity,Other,2023-02-18
+19,712911,Date of Birth,6/5/1943,2023-02-18
+20,712911,Account Type,Gold,2023-02-18
+21,478020,Ethnicity,Black,2023-02-27
+22,478020,Date of Birth,5/16/1987,2023-02-27
+23,478020,Account Type,Gold,2023-02-27
+24,366334,Ethnicity,Other,2023-02-05
+25,366334,Date of Birth,10/15/1996,2023-02-05
+26,366334,Account Type,Platinum,2023-02-05
+27,978930,Ethnicity,Asian,2023-02-25
+28,978930,Date of Birth,3/27/2016,2023-02-25
+29,978930,Account Type,Basic,2023-02-25
+30,898177,Ethnicity,Asian,2023-02-28
+31,898177,Date of Birth,10/13/1975,2023-02-28
+32,898177,Account Type,Platinum,2023-02-28
+33,938610,Ethnicity,Other,2023-02-14
+34,938610,Date of Birth,11/18/2006,2023-02-14
+35,938610,Account Type,Platinum,2023-02-14
+36,624601,Ethnicity,Other,2023-02-18
+37,624601,Date of Birth,4/20/1991,2023-02-18
+38,624601,Account Type,Gold,2023-02-18
+39,900910,Ethnicity,White,2023-02-27
+40,900910,Date of Birth,9/21/1967,2023-02-27
+41,900910,Account Type,Gold,2023-02-27
+42,303669,Ethnicity,Black,2023-02-18
+43,303669,Date of Birth,1/3/2016,2023-02-18
+44,303669,Account Type,Basic,2023-02-18
+45,995456,Ethnicity,Other,2023-02-17
+46,995456,Date of Birth,3/5/1975,2023-02-17
+47,995456,Account Type,Basic,2023-02-17
+48,598787,Ethnicity,Other,2023-02-01
+49,598787,Date of Birth,9/11/1962,2023-02-01
+50,598787,Account Type,Basic,2023-02-01
+51,239484,Ethnicity,Other,2023-02-06
+52,239484,Date of Birth,5/1/1999,2023-02-06
+53,239484,Account Type,Gold,2023-02-06
+54,188081,Ethnicity,Other,2023-02-26
+55,188081,Date of Birth,5/29/1969,2023-02-26
+56,188081,Account Type,Basic,2023-02-26
+57,828504,Ethnicity,Other,2023-02-10
+58,828504,Date of Birth,9/21/2013,2023-02-10
+59,828504,Account Type,Basic,2023-02-10
+60,150648,Ethnicity,Black,2023-02-02
+61,150648,Date of Birth,6/4/1950,2023-02-02
+62,150648,Account Type,Basic,2023-02-02
+63,263796,Ethnicity,White,2023-02-24
+64,263796,Date of Birth,2/10/1952,2023-02-24
+65,263796,Account Type,Gold,2023-02-24
+66,662810,Ethnicity,Asian,2023-02-25
+67,662810,Date of Birth,12/11/1994,2023-02-25
+68,662810,Account Type,Gold,2023-02-25
+69,988008,Ethnicity,Asian,2023-02-06
+70,988008,Date of Birth,7/9/1971,2023-02-06
+71,988008,Account Type,Gold,2023-02-06
+72,126580,Ethnicity,Black,2023-02-07
+73,126580,Date of Birth,7/17/1945,2023-02-07
+74,126580,Account Type,Platinum,2023-02-07
+75,307769,Ethnicity,White,2023-02-16
+76,307769,Date of Birth,7/26/1981,2023-02-16
+77,307769,Account Type,Gold,2023-02-16
+78,890043,Ethnicity,White,2023-02-08
+79,890043,Date of Birth,5/24/2010,2023-02-08
+80,890043,Account Type,Basic,2023-02-08
+81,866947,Ethnicity,Other,2023-02-02
+82,866947,Date of Birth,4/11/1949,2023-02-02
+83,866947,Account Type,Gold,2023-02-02
+84,200988,Ethnicity,Asian,2023-02-24
+85,200988,Date of Birth,10/8/1969,2023-02-24
+86,200988,Account Type,Platinum,2023-02-24
+87,667559,Ethnicity,Other,2023-02-14
+88,667559,Date of Birth,5/16/1985,2023-02-14
+89,667559,Account Type,Basic,2023-02-14
+90,862571,Ethnicity,Black,2023-02-07
+91,862571,Date of Birth,3/10/1962,2023-02-07
+92,862571,Account Type,Gold,2023-02-07
+93,448076,Ethnicity,White,2023-02-20
+94,448076,Date of Birth,10/7/1995,2023-02-20
+95,448076,Account Type,Platinum,2023-02-20
+96,993967,Ethnicity,Asian,2023-02-15
+97,993967,Date of Birth,2/23/1951,2023-02-15
+98,993967,Account Type,Platinum,2023-02-15
+99,748205,Ethnicity,Asian,2023-02-05
+100,748205,Date of Birth,6/19/2002,2023-02-05
+101,748205,Account Type,Gold,2023-02-05
+102,582245,Ethnicity,Other,2023-02-20
+103,582245,Date of Birth,2/17/2012,2023-02-20
+104,582245,Account Type,Platinum,2023-02-20
+105,429112,Ethnicity,Black,2023-02-08
+106,429112,Date of Birth,11/20/1993,2023-02-08
+107,429112,Account Type,Basic,2023-02-08
+108,528281,Ethnicity,Black,2023-02-22
+109,528281,Date of Birth,12/22/2009,2023-02-22
+110,528281,Account Type,Basic,2023-02-22
+111,698182,Ethnicity,Asian,2023-02-20
+112,698182,Date of Birth,12/28/1960,2023-02-20
+113,698182,Account Type,Gold,2023-02-20
+114,141574,Ethnicity,Other,2023-02-09
+115,141574,Date of Birth,12/18/2012,2023-02-09
+116,141574,Account Type,Platinum,2023-02-09
+117,253467,Ethnicity,Asian,2023-02-05
+118,253467,Date of Birth,7/29/1984,2023-02-05
+119,253467,Account Type,Basic,2023-02-05
+120,290840,Ethnicity,Asian,2023-02-14
+121,290840,Date of Birth,8/3/2001,2023-02-14
+122,290840,Account Type,Gold,2023-02-14
+123,313159,Ethnicity,White,2023-02-27
+124,313159,Date of Birth,9/23/2008,2023-02-27
+125,313159,Account Type,Platinum,2023-02-27
+126,771442,Ethnicity,White,2023-02-22
+127,771442,Date of Birth,5/7/1974,2023-02-22
+128,771442,Account Type,Basic,2023-02-22
+129,305931,Ethnicity,Other,2023-02-09
+130,305931,Date of Birth,10/1/2011,2023-02-09
+131,305931,Account Type,Platinum,2023-02-09
+132,399130,Ethnicity,Asian,2023-02-28
+133,399130,Date of Birth,7/4/1958,2023-02-28
+134,399130,Account Type,Basic,2023-02-28
+135,867729,Ethnicity,Black,2023-02-03
+136,867729,Date of Birth,4/24/1957,2023-02-03
+137,867729,Account Type,Basic,2023-02-03
+138,236432,Ethnicity,White,2023-02-20
+139,236432,Date of Birth,10/13/1957,2023-02-20
+140,236432,Account Type,Basic,2023-02-20
+141,633342,Ethnicity,Asian,2023-02-08
+142,633342,Date of Birth,3/25/1972,2023-02-08
+143,633342,Account Type,Basic,2023-02-08
+144,940601,Ethnicity,Other,2023-02-09
+145,940601,Date of Birth,8/4/2011,2023-02-09
+146,940601,Account Type,Platinum,2023-02-09
+147,203783,Ethnicity,Black,2023-02-24
+148,203783,Date of Birth,7/10/1975,2023-02-24
+149,203783,Account Type,Platinum,2023-02-24
+150,371550,Ethnicity,Black,2023-02-02
+151,371550,Date of Birth,8/20/2004,2023-02-02
+152,371550,Account Type,Basic,2023-02-02
+153,742364,Ethnicity,Black,2023-02-02
+154,742364,Date of Birth,9/9/1978,2023-02-02
+155,742364,Account Type,Gold,2023-02-02
+156,149442,Ethnicity,Other,2023-02-23
+157,149442,Date of Birth,6/10/1952,2023-02-23
+158,149442,Account Type,Gold,2023-02-23
+159,134738,Ethnicity,Asian,2023-02-04
+160,134738,Date of Birth,4/21/1992,2023-02-04
+161,134738,Account Type,Basic,2023-02-04
+162,804513,Ethnicity,Asian,2023-02-25
+163,804513,Date of Birth,5/12/1974,2023-02-25
+164,804513,Account Type,Gold,2023-02-25
+165,747974,Ethnicity,Asian,2023-02-10
+166,747974,Date of Birth,8/14/1966,2023-02-10
+167,747974,Account Type,Gold,2023-02-10
+168,435231,Ethnicity,Black,2023-02-11
+169,435231,Date of Birth,1/2/2012,2023-02-11
+170,435231,Account Type,Gold,2023-02-11
+171,440691,Ethnicity,White,2023-02-16
+172,440691,Date of Birth,7/2/2013,2023-02-16
+173,440691,Account Type,Basic,2023-02-16
+174,639573,Ethnicity,Other,2023-02-03
+175,639573,Date of Birth,10/7/1943,2023-02-03
+176,639573,Account Type,Gold,2023-02-03
+177,793000,Ethnicity,Asian,2023-02-12
+178,793000,Date of Birth,4/29/1951,2023-02-12
+179,793000,Account Type,Basic,2023-02-12
+180,418614,Ethnicity,White,2023-02-22
+181,418614,Date of Birth,11/17/2013,2023-02-22
+182,418614,Account Type,Gold,2023-02-22
+183,829902,Ethnicity,Other,2023-02-11
+184,829902,Date of Birth,4/14/1968,2023-02-11
+185,829902,Account Type,Platinum,2023-02-11
+186,533119,Ethnicity,White,2023-02-17
+187,533119,Date of Birth,1/25/1960,2023-02-17
+188,533119,Account Type,Platinum,2023-02-17
+189,287391,Ethnicity,Other,2023-02-06
+190,287391,Date of Birth,11/25/1954,2023-02-06
+191,287391,Account Type,Platinum,2023-02-06
+192,913984,Ethnicity,White,2023-02-15
+193,913984,Date of Birth,9/6/2008,2023-02-15
+194,913984,Account Type,Platinum,2023-02-15
+195,336949,Ethnicity,White,2023-02-27
+196,336949,Date of Birth,12/20/1976,2023-02-27
+197,336949,Account Type,Platinum,2023-02-27
+198,523380,Ethnicity,Asian,2023-02-21
+199,523380,Date of Birth,12/23/1994,2023-02-21
+200,523380,Account Type,Platinum,2023-02-21
+201,645286,Ethnicity,Other,2023-02-15
+202,645286,Date of Birth,5/7/2006,2023-02-15
+203,645286,Account Type,Basic,2023-02-15
+204,426503,Ethnicity,Other,2023-02-26
+205,426503,Date of Birth,9/3/2009,2023-02-26
+206,426503,Account Type,Platinum,2023-02-26
+207,322646,Ethnicity,Asian,2023-02-27
+208,322646,Date of Birth,2/24/1956,2023-02-27
+209,322646,Account Type,Basic,2023-02-27
+210,430823,Ethnicity,White,2023-02-27
+211,430823,Date of Birth,11/22/1986,2023-02-27
+212,430823,Account Type,Gold,2023-02-27
+213,905817,Ethnicity,Other,2023-02-17
+214,905817,Date of Birth,4/24/1969,2023-02-17
+215,905817,Account Type,Gold,2023-02-17
+216,978249,Ethnicity,Asian,2023-02-20
+217,978249,Date of Birth,7/9/1944,2023-02-20
+218,978249,Account Type,Platinum,2023-02-20
+219,863998,Ethnicity,Asian,2023-02-24
+220,863998,Date of Birth,11/23/2006,2023-02-24
+221,863998,Account Type,Platinum,2023-02-24
+222,535172,Ethnicity,Asian,2023-02-18
+223,535172,Date of Birth,12/23/1964,2023-02-18
+224,535172,Account Type,Basic,2023-02-18
+225,884641,Ethnicity,Other,2023-02-12
+226,884641,Date of Birth,2/20/1970,2023-02-12
+227,884641,Account Type,Basic,2023-02-12
+228,695485,Ethnicity,White,2023-02-12
+229,695485,Date of Birth,11/26/1954,2023-02-12
+230,695485,Account Type,Gold,2023-02-12
+231,583851,Ethnicity,Other,2023-02-16
+232,583851,Date of Birth,2/26/2006,2023-02-16
+233,583851,Account Type,Gold,2023-02-16
+234,436544,Ethnicity,Black,2023-02-11
+235,436544,Date of Birth,4/10/2013,2023-02-11
+236,436544,Account Type,Basic,2023-02-11
+237,844387,Ethnicity,Asian,2023-02-02
+238,844387,Date of Birth,1/17/1950,2023-02-02
+239,844387,Account Type,Basic,2023-02-02
+240,128220,Ethnicity,Other,2023-02-27
+241,128220,Date of Birth,3/22/1947,2023-02-27
+242,128220,Account Type,Basic,2023-02-27
+243,737345,Ethnicity,Other,2023-02-14
+244,737345,Date of Birth,1/27/1971,2023-02-14
+245,737345,Account Type,Gold,2023-02-14
+246,431391,Ethnicity,Other,2023-02-02
+247,431391,Date of Birth,4/25/1980,2023-02-02
+248,431391,Account Type,Basic,2023-02-02
+249,375824,Ethnicity,Other,2023-02-10
+250,375824,Date of Birth,7/5/1978,2023-02-10
+251,375824,Account Type,Platinum,2023-02-10
+252,247253,Ethnicity,Asian,2023-02-21
+253,247253,Date of Birth,9/26/1987,2023-02-21
+254,247253,Account Type,Gold,2023-02-21
+0,373223,Ethnicity,Asian,2023-03-29
+1,373223,Date of Birth,11/12/1985,2023-03-29
+2,373223,Account Type,Basic,2023-03-29
+3,805034,Ethnicity,Asian,2023-03-19
+4,805034,Date of Birth,1/10/1968,2023-03-19
+5,805034,Account Type,Platinum,2023-03-19
+6,842913,Ethnicity,Other,2023-03-29
+7,842913,Date of Birth,4/22/1945,2023-03-29
+8,842913,Account Type,Gold,2023-03-29
+9,755287,Ethnicity,Black,2023-03-24
+10,755287,Date of Birth,8/27/1997,2023-03-24
+11,755287,Account Type,Platinum,2023-03-24
+12,700950,Ethnicity,Black,2023-03-10
+13,700950,Date of Birth,6/18/1940,2023-03-10
+14,700950,Account Type,Basic,2023-03-10
+15,115702,Ethnicity,Black,2023-03-14
+16,115702,Date of Birth,2/17/1977,2023-03-14
+17,115702,Account Type,Platinum,2023-03-14
+18,664810,Ethnicity,Black,2023-03-10
+19,664810,Date of Birth,7/2/1947,2023-03-10
+20,664810,Account Type,Gold,2023-03-10
+21,698434,Ethnicity,Black,2023-03-11
+22,698434,Date of Birth,12/23/1946,2023-03-11
+23,698434,Account Type,Basic,2023-03-11
+24,287144,Ethnicity,White,2023-03-23
+25,287144,Date of Birth,9/25/1976,2023-03-23
+26,287144,Account Type,Platinum,2023-03-23
+27,980787,Ethnicity,Black,2023-03-13
+28,980787,Date of Birth,2/18/1975,2023-03-13
+29,980787,Account Type,Platinum,2023-03-13
+30,487923,Ethnicity,White,2023-03-22
+31,487923,Date of Birth,6/28/1990,2023-03-22
+32,487923,Account Type,Platinum,2023-03-22
+33,512194,Ethnicity,White,2023-03-13
+34,512194,Date of Birth,4/9/1985,2023-03-13
+35,512194,Account Type,Gold,2023-03-13
+36,135265,Ethnicity,White,2023-03-28
+37,135265,Date of Birth,2/9/1940,2023-03-28
+38,135265,Account Type,Platinum,2023-03-28
+39,762476,Ethnicity,Other,2023-03-23
+40,762476,Date of Birth,6/3/1956,2023-03-23
+41,762476,Account Type,Basic,2023-03-23
+42,506007,Ethnicity,Asian,2023-03-23
+43,506007,Date of Birth,12/1/1979,2023-03-23
+44,506007,Account Type,Basic,2023-03-23
+45,221229,Ethnicity,White,2023-03-13
+46,221229,Date of Birth,2/26/1965,2023-03-13
+47,221229,Account Type,Platinum,2023-03-13
+48,650842,Ethnicity,Other,2023-03-28
+49,650842,Date of Birth,6/6/1953,2023-03-28
+50,650842,Account Type,Gold,2023-03-28
+51,675810,Ethnicity,Other,2023-03-12
+52,675810,Date of Birth,12/12/1968,2023-03-12
+53,675810,Account Type,Gold,2023-03-12
+54,989180,Ethnicity,White,2023-03-14
+55,989180,Date of Birth,9/18/1953,2023-03-14
+56,989180,Account Type,Gold,2023-03-14
+57,250381,Ethnicity,Other,2023-03-26
+58,250381,Date of Birth,5/18/1945,2023-03-26
+59,250381,Account Type,Platinum,2023-03-26
+60,548861,Ethnicity,Other,2023-03-24
+61,548861,Date of Birth,5/3/1962,2023-03-24
+62,548861,Account Type,Platinum,2023-03-24
+63,184141,Ethnicity,Black,2023-03-22
+64,184141,Date of Birth,3/18/1949,2023-03-22
+65,184141,Account Type,Basic,2023-03-22
+66,830235,Ethnicity,Black,2023-03-14
+67,830235,Date of Birth,8/15/1947,2023-03-14
+68,830235,Account Type,Gold,2023-03-14
+69,664103,Ethnicity,Black,2023-03-23
+70,664103,Date of Birth,6/29/2014,2023-03-23
+71,664103,Account Type,Gold,2023-03-23
+72,569706,Ethnicity,Asian,2023-03-18
+73,569706,Date of Birth,5/16/2014,2023-03-18
+74,569706,Account Type,Gold,2023-03-18
+75,312371,Ethnicity,Asian,2023-03-17
+76,312371,Date of Birth,6/28/2019,2023-03-17
+77,312371,Account Type,Gold,2023-03-17
+78,638704,Ethnicity,Other,2023-03-21
+79,638704,Date of Birth,4/6/1946,2023-03-21
+80,638704,Account Type,Gold,2023-03-21
+81,248371,Ethnicity,Asian,2023-03-01
+82,248371,Date of Birth,12/30/1979,2023-03-01
+83,248371,Account Type,Gold,2023-03-01
+84,415677,Ethnicity,Black,2023-03-11
+85,415677,Date of Birth,3/31/2008,2023-03-11
+86,415677,Account Type,Basic,2023-03-11
+87,982951,Ethnicity,Black,2023-03-03
+88,982951,Date of Birth,3/6/1982,2023-03-03
+89,982951,Account Type,Platinum,2023-03-03
+90,994016,Ethnicity,Other,2023-03-29
+91,994016,Date of Birth,3/29/1955,2023-03-29
+92,994016,Account Type,Platinum,2023-03-29
+93,895152,Ethnicity,Asian,2023-03-28
+94,895152,Date of Birth,8/4/1941,2023-03-28
+95,895152,Account Type,Basic,2023-03-28
+96,255988,Ethnicity,Asian,2023-03-24
+97,255988,Date of Birth,6/7/2017,2023-03-24
+98,255988,Account Type,Basic,2023-03-24
+99,838073,Ethnicity,Asian,2023-03-26
+100,838073,Date of Birth,9/14/2011,2023-03-26
+101,838073,Account Type,Basic,2023-03-26
+102,458285,Ethnicity,Other,2023-03-27
+103,458285,Date of Birth,12/20/2018,2023-03-27
+104,458285,Account Type,Basic,2023-03-27
+105,924472,Ethnicity,White,2023-03-24
+106,924472,Date of Birth,6/14/1972,2023-03-24
+107,924472,Account Type,Basic,2023-03-24
+108,588390,Ethnicity,Black,2023-03-16
+109,588390,Date of Birth,3/22/1950,2023-03-16
+110,588390,Account Type,Basic,2023-03-16
+111,621479,Ethnicity,White,2023-03-22
+112,621479,Date of Birth,1/12/1968,2023-03-22
+113,621479,Account Type,Basic,2023-03-22
+114,791978,Ethnicity,White,2023-03-28
+115,791978,Date of Birth,10/18/1985,2023-03-28
+116,791978,Account Type,Basic,2023-03-28
+117,413196,Ethnicity,White,2023-03-04
+118,413196,Date of Birth,10/1/1974,2023-03-04
+119,413196,Account Type,Platinum,2023-03-04
+120,445531,Ethnicity,Black,2023-03-25
+121,445531,Date of Birth,11/1/1963,2023-03-25
+122,445531,Account Type,Gold,2023-03-25
+123,316875,Ethnicity,Other,2023-03-31
+124,316875,Date of Birth,3/7/1992,2023-03-31
+125,316875,Account Type,Basic,2023-03-31
+126,500741,Ethnicity,Other,2023-03-23
+127,500741,Date of Birth,12/26/1955,2023-03-23
+128,500741,Account Type,Basic,2023-03-23
+129,429752,Ethnicity,Asian,2023-03-02
+130,429752,Date of Birth,11/15/1945,2023-03-02
+131,429752,Account Type,Platinum,2023-03-02
+132,835234,Ethnicity,Other,2023-03-13
+133,835234,Date of Birth,6/4/1948,2023-03-13
+134,835234,Account Type,Basic,2023-03-13
+135,264065,Ethnicity,Other,2023-03-30
+136,264065,Date of Birth,12/8/1975,2023-03-30
+137,264065,Account Type,Platinum,2023-03-30
+138,963921,Ethnicity,Black,2023-03-20
+139,963921,Date of Birth,9/8/2011,2023-03-20
+140,963921,Account Type,Gold,2023-03-20
+141,393185,Ethnicity,Black,2023-03-05
+142,393185,Date of Birth,8/11/1967,2023-03-05
+143,393185,Account Type,Gold,2023-03-05
+144,535509,Ethnicity,Other,2023-03-10
+145,535509,Date of Birth,9/11/2019,2023-03-10
+146,535509,Account Type,Platinum,2023-03-10
+147,178058,Ethnicity,Black,2023-03-29
+148,178058,Date of Birth,1/1/1988,2023-03-29
+149,178058,Account Type,Gold,2023-03-29
+150,167376,Ethnicity,Black,2023-03-26
+151,167376,Date of Birth,6/25/2004,2023-03-26
+152,167376,Account Type,Basic,2023-03-26
+153,528606,Ethnicity,Other,2023-03-13
+154,528606,Date of Birth,12/3/2014,2023-03-13
+155,528606,Account Type,Basic,2023-03-13
+156,676797,Ethnicity,Asian,2023-03-03
+157,676797,Date of Birth,11/3/1986,2023-03-03
+158,676797,Account Type,Gold,2023-03-03
+159,125458,Ethnicity,Other,2023-03-25
+160,125458,Date of Birth,6/23/1960,2023-03-25
+161,125458,Account Type,Basic,2023-03-25
+162,932133,Ethnicity,Black,2023-03-25
+163,932133,Date of Birth,9/22/1944,2023-03-25
+164,932133,Account Type,Basic,2023-03-25
+165,582577,Ethnicity,Black,2023-03-11
+166,582577,Date of Birth,1/24/1999,2023-03-11
+167,582577,Account Type,Gold,2023-03-11
+168,714124,Ethnicity,Other,2023-03-07
+169,714124,Date of Birth,12/24/1986,2023-03-07
+170,714124,Account Type,Platinum,2023-03-07
+171,132163,Ethnicity,White,2023-03-29
+172,132163,Date of Birth,8/19/2019,2023-03-29
+173,132163,Account Type,Basic,2023-03-29
+174,527900,Ethnicity,Black,2023-03-20
+175,527900,Date of Birth,10/11/1952,2023-03-20
+176,527900,Account Type,Gold,2023-03-20
+177,446540,Ethnicity,Other,2023-03-28
+178,446540,Date of Birth,7/22/1950,2023-03-28
+179,446540,Account Type,Basic,2023-03-28
+180,571428,Ethnicity,Black,2023-03-08
+181,571428,Date of Birth,6/23/1965,2023-03-08
+182,571428,Account Type,Platinum,2023-03-08
+183,258885,Ethnicity,Black,2023-03-12
+184,258885,Date of Birth,3/16/1943,2023-03-12
+185,258885,Account Type,Basic,2023-03-12
+186,859391,Ethnicity,Black,2023-03-15
+187,859391,Date of Birth,4/11/1999,2023-03-15
+188,859391,Account Type,Platinum,2023-03-15
+189,606785,Ethnicity,White,2023-03-16
+190,606785,Date of Birth,8/11/1968,2023-03-16
+191,606785,Account Type,Basic,2023-03-16
+192,973103,Ethnicity,Asian,2023-03-19
+193,973103,Date of Birth,3/29/1942,2023-03-19
+194,973103,Account Type,Platinum,2023-03-19
+195,513032,Ethnicity,White,2023-03-26
+196,513032,Date of Birth,1/12/1973,2023-03-26
+197,513032,Account Type,Basic,2023-03-26
+198,499282,Ethnicity,Other,2023-03-18
+199,499282,Date of Birth,6/14/2019,2023-03-18
+200,499282,Account Type,Platinum,2023-03-18
+201,845839,Ethnicity,Black,2023-03-17
+202,845839,Date of Birth,5/29/1979,2023-03-17
+203,845839,Account Type,Platinum,2023-03-17
+204,725355,Ethnicity,Asian,2023-03-19
+205,725355,Date of Birth,9/22/1975,2023-03-19
+206,725355,Account Type,Gold,2023-03-19
+207,667164,Ethnicity,Other,2023-03-31
+208,667164,Date of Birth,3/29/1977,2023-03-31
+209,667164,Account Type,Gold,2023-03-31
+210,618265,Ethnicity,Black,2023-03-03
+211,618265,Date of Birth,5/31/1945,2023-03-03
+212,618265,Account Type,Basic,2023-03-03
+213,731691,Ethnicity,Black,2023-03-16
+214,731691,Date of Birth,7/29/1951,2023-03-16
+215,731691,Account Type,Platinum,2023-03-16
+216,832052,Ethnicity,Black,2023-03-12
+217,832052,Date of Birth,8/21/1981,2023-03-12
+218,832052,Account Type,Basic,2023-03-12
+219,296100,Ethnicity,Other,2023-03-19
+220,296100,Date of Birth,10/22/1991,2023-03-19
+221,296100,Account Type,Gold,2023-03-19
+222,894920,Ethnicity,White,2023-03-25
+223,894920,Date of Birth,12/3/1979,2023-03-25
+224,894920,Account Type,Platinum,2023-03-25
+225,344685,Ethnicity,Asian,2023-03-10
+226,344685,Date of Birth,1/6/1990,2023-03-10
+227,344685,Account Type,Gold,2023-03-10
+228,968654,Ethnicity,White,2023-03-12
+229,968654,Date of Birth,1/26/1981,2023-03-12
+230,968654,Account Type,Gold,2023-03-12
+0,797127,Ethnicity,Black,2023-04-19
+1,797127,Date of Birth,6/26/1987,2023-04-19
+2,797127,Account Type,Platinum,2023-04-19
+3,282672,Ethnicity,Black,2023-04-09
+4,282672,Date of Birth,7/20/1991,2023-04-09
+5,282672,Account Type,Platinum,2023-04-09
+6,339687,Ethnicity,White,2023-04-09
+7,339687,Date of Birth,11/29/1946,2023-04-09
+8,339687,Account Type,Basic,2023-04-09
+9,818135,Ethnicity,Asian,2023-04-03
+10,818135,Date of Birth,4/11/1954,2023-04-03
+11,818135,Account Type,Gold,2023-04-03
+12,192505,Ethnicity,White,2023-04-06
+13,192505,Date of Birth,10/15/1966,2023-04-06
+14,192505,Account Type,Platinum,2023-04-06
+15,669663,Ethnicity,White,2023-04-20
+16,669663,Date of Birth,6/2/1994,2023-04-20
+17,669663,Account Type,Gold,2023-04-20
+18,604416,Ethnicity,Other,2023-04-24
+19,604416,Date of Birth,6/29/2004,2023-04-24
+20,604416,Account Type,Gold,2023-04-24
+21,656794,Ethnicity,Other,2023-04-10
+22,656794,Date of Birth,10/21/1951,2023-04-10
+23,656794,Account Type,Basic,2023-04-10
+24,954550,Ethnicity,Black,2023-04-08
+25,954550,Date of Birth,1/23/1953,2023-04-08
+26,954550,Account Type,Gold,2023-04-08
+27,255005,Ethnicity,White,2023-04-08
+28,255005,Date of Birth,1/4/1941,2023-04-08
+29,255005,Account Type,Basic,2023-04-08
+30,104185,Ethnicity,White,2023-04-25
+31,104185,Date of Birth,6/8/1989,2023-04-25
+32,104185,Account Type,Basic,2023-04-25
+33,637023,Ethnicity,Black,2023-04-03
+34,637023,Date of Birth,11/23/1953,2023-04-03
+35,637023,Account Type,Platinum,2023-04-03
+36,184178,Ethnicity,Asian,2023-04-09
+37,184178,Date of Birth,10/29/1958,2023-04-09
+38,184178,Account Type,Basic,2023-04-09
+39,708191,Ethnicity,White,2023-04-12
+40,708191,Date of Birth,6/30/1974,2023-04-12
+41,708191,Account Type,Basic,2023-04-12
+42,805246,Ethnicity,Asian,2023-04-16
+43,805246,Date of Birth,7/20/1971,2023-04-16
+44,805246,Account Type,Gold,2023-04-16
+45,340059,Ethnicity,White,2023-04-06
+46,340059,Date of Birth,1/24/2004,2023-04-06
+47,340059,Account Type,Basic,2023-04-06
+48,458824,Ethnicity,Asian,2023-04-19
+49,458824,Date of Birth,8/3/1967,2023-04-19
+50,458824,Account Type,Basic,2023-04-19
+51,873760,Ethnicity,White,2023-04-26
+52,873760,Date of Birth,12/31/1980,2023-04-26
+53,873760,Account Type,Gold,2023-04-26
+54,134047,Ethnicity,Black,2023-04-08
+55,134047,Date of Birth,4/6/1959,2023-04-08
+56,134047,Account Type,Basic,2023-04-08
+57,327751,Ethnicity,Asian,2023-04-27
+58,327751,Date of Birth,4/26/1984,2023-04-27
+59,327751,Account Type,Platinum,2023-04-27
+60,302917,Ethnicity,Other,2023-04-24
+61,302917,Date of Birth,5/3/1955,2023-04-24
+62,302917,Account Type,Gold,2023-04-24
+63,824009,Ethnicity,Black,2023-04-27
+64,824009,Date of Birth,3/27/1989,2023-04-27
+65,824009,Account Type,Platinum,2023-04-27
+66,731240,Ethnicity,Other,2023-04-04
+67,731240,Date of Birth,5/8/1951,2023-04-04
+68,731240,Account Type,Gold,2023-04-04
+69,727292,Ethnicity,Black,2023-04-11
+70,727292,Date of Birth,1/13/1984,2023-04-11
+71,727292,Account Type,Gold,2023-04-11
+72,385704,Ethnicity,White,2023-04-24
+73,385704,Date of Birth,1/1/1987,2023-04-24
+74,385704,Account Type,Basic,2023-04-24
+75,367467,Ethnicity,Asian,2023-04-30
+76,367467,Date of Birth,1/24/2019,2023-04-30
+77,367467,Account Type,Platinum,2023-04-30
+78,748215,Ethnicity,Black,2023-04-25
+79,748215,Date of Birth,5/1/2013,2023-04-25
+80,748215,Account Type,Gold,2023-04-25
+81,549509,Ethnicity,White,2023-04-02
+82,549509,Date of Birth,4/13/1970,2023-04-02
+83,549509,Account Type,Gold,2023-04-02
+84,856901,Ethnicity,Other,2023-04-02
+85,856901,Date of Birth,10/21/1941,2023-04-02
+86,856901,Account Type,Basic,2023-04-02
+87,614858,Ethnicity,Other,2023-04-10
+88,614858,Date of Birth,3/24/1977,2023-04-10
+89,614858,Account Type,Basic,2023-04-10
+90,130206,Ethnicity,Asian,2023-04-10
+91,130206,Date of Birth,3/19/1972,2023-04-10
+92,130206,Account Type,Gold,2023-04-10
+93,553320,Ethnicity,Asian,2023-04-13
+94,553320,Date of Birth,3/19/1952,2023-04-13
+95,553320,Account Type,Gold,2023-04-13
+96,285157,Ethnicity,Asian,2023-04-21
+97,285157,Date of Birth,1/16/2010,2023-04-21
+98,285157,Account Type,Gold,2023-04-21
+99,478687,Ethnicity,White,2023-04-05
+100,478687,Date of Birth,5/13/1999,2023-04-05
+101,478687,Account Type,Platinum,2023-04-05
+102,911471,Ethnicity,White,2023-04-05
+103,911471,Date of Birth,1/11/2007,2023-04-05
+104,911471,Account Type,Basic,2023-04-05
+105,402150,Ethnicity,Other,2023-04-19
+106,402150,Date of Birth,10/14/1970,2023-04-19
+107,402150,Account Type,Platinum,2023-04-19
+108,919470,Ethnicity,Other,2023-04-27
+109,919470,Date of Birth,10/9/1949,2023-04-27
+110,919470,Account Type,Basic,2023-04-27
+111,654694,Ethnicity,Other,2023-04-30
+112,654694,Date of Birth,8/13/1985,2023-04-30
+113,654694,Account Type,Platinum,2023-04-30
+114,984067,Ethnicity,Black,2023-04-22
+115,984067,Date of Birth,4/9/1958,2023-04-22
+116,984067,Account Type,Basic,2023-04-22
+117,871141,Ethnicity,Other,2023-04-16
+118,871141,Date of Birth,2/24/1944,2023-04-16
+119,871141,Account Type,Basic,2023-04-16
+120,638662,Ethnicity,Black,2023-04-05
+121,638662,Date of Birth,3/4/2008,2023-04-05
+122,638662,Account Type,Basic,2023-04-05
+123,460507,Ethnicity,White,2023-04-28
+124,460507,Date of Birth,10/28/1945,2023-04-28
+125,460507,Account Type,Platinum,2023-04-28
+126,467374,Ethnicity,Black,2023-04-24
+127,467374,Date of Birth,1/3/2006,2023-04-24
+128,467374,Account Type,Gold,2023-04-24
+129,431328,Ethnicity,Black,2023-04-27
+130,431328,Date of Birth,5/30/1970,2023-04-27
+131,431328,Account Type,Platinum,2023-04-27
+132,166090,Ethnicity,Black,2023-04-01
+133,166090,Date of Birth,2/4/2016,2023-04-01
+134,166090,Account Type,Platinum,2023-04-01
+135,506688,Ethnicity,Asian,2023-04-29
+136,506688,Date of Birth,9/29/2015,2023-04-29
+137,506688,Account Type,Gold,2023-04-29
+138,675627,Ethnicity,Other,2023-04-18
+139,675627,Date of Birth,8/17/1968,2023-04-18
+140,675627,Account Type,Gold,2023-04-18
+141,771144,Ethnicity,Asian,2023-04-08
+142,771144,Date of Birth,10/21/1962,2023-04-08
+143,771144,Account Type,Basic,2023-04-08
+144,991305,Ethnicity,Other,2023-04-16
+145,991305,Date of Birth,10/30/1986,2023-04-16
+146,991305,Account Type,Platinum,2023-04-16
+147,663516,Ethnicity,Other,2023-04-25
+148,663516,Date of Birth,11/7/1996,2023-04-25
+149,663516,Account Type,Gold,2023-04-25
+150,514864,Ethnicity,Other,2023-04-24
+151,514864,Date of Birth,2/19/1965,2023-04-24
+152,514864,Account Type,Platinum,2023-04-24
+153,595739,Ethnicity,White,2023-04-09
+154,595739,Date of Birth,6/18/1997,2023-04-09
+155,595739,Account Type,Platinum,2023-04-09
+156,285940,Ethnicity,Black,2023-04-02
+157,285940,Date of Birth,6/3/2017,2023-04-02
+158,285940,Account Type,Platinum,2023-04-02
+159,982585,Ethnicity,Black,2023-04-11
+160,982585,Date of Birth,2/7/2016,2023-04-11
+161,982585,Account Type,Gold,2023-04-11
+162,101515,Ethnicity,Black,2023-04-14
+163,101515,Date of Birth,8/11/1974,2023-04-14
+164,101515,Account Type,Gold,2023-04-14
+165,908478,Ethnicity,Asian,2023-04-25
+166,908478,Date of Birth,10/5/1941,2023-04-25
+167,908478,Account Type,Gold,2023-04-25
+168,976803,Ethnicity,Black,2023-04-14
+169,976803,Date of Birth,7/11/1940,2023-04-14
+170,976803,Account Type,Platinum,2023-04-14
+171,394262,Ethnicity,Other,2023-04-06
+172,394262,Date of Birth,8/29/1961,2023-04-06
+173,394262,Account Type,Basic,2023-04-06
+174,372488,Ethnicity,Other,2023-04-20
+175,372488,Date of Birth,7/13/1974,2023-04-20
+176,372488,Account Type,Basic,2023-04-20
+177,915339,Ethnicity,White,2023-04-28
+178,915339,Date of Birth,5/7/1997,2023-04-28
+179,915339,Account Type,Gold,2023-04-28
+180,687501,Ethnicity,Black,2023-04-06
+181,687501,Date of Birth,8/21/1976,2023-04-06
+182,687501,Account Type,Platinum,2023-04-06
+183,181477,Ethnicity,Black,2023-04-12
+184,181477,Date of Birth,8/22/1984,2023-04-12
+185,181477,Account Type,Gold,2023-04-12
+186,594866,Ethnicity,White,2023-04-07
+187,594866,Date of Birth,8/19/2004,2023-04-07
+188,594866,Account Type,Gold,2023-04-07
+189,347274,Ethnicity,Black,2023-04-09
+190,347274,Date of Birth,6/17/1993,2023-04-09
+191,347274,Account Type,Basic,2023-04-09
+192,405909,Ethnicity,Asian,2023-04-13
+193,405909,Date of Birth,8/27/1979,2023-04-13
+194,405909,Account Type,Platinum,2023-04-13
+195,284005,Ethnicity,Asian,2023-04-05
+196,284005,Date of Birth,7/2/1992,2023-04-05
+197,284005,Account Type,Basic,2023-04-05
+198,287844,Ethnicity,Other,2023-04-08
+199,287844,Date of Birth,2/15/1952,2023-04-08
+200,287844,Account Type,Basic,2023-04-08
+201,881176,Ethnicity,Other,2023-04-25
+202,881176,Date of Birth,1/18/1979,2023-04-25
+203,881176,Account Type,Basic,2023-04-25
+204,530288,Ethnicity,Black,2023-04-04
+205,530288,Date of Birth,8/24/1966,2023-04-04
+206,530288,Account Type,Platinum,2023-04-04
+207,421873,Ethnicity,Other,2023-04-13
+208,421873,Date of Birth,5/8/1969,2023-04-13
+209,421873,Account Type,Gold,2023-04-13
+210,701255,Ethnicity,White,2023-04-15
+211,701255,Date of Birth,3/22/1973,2023-04-15
+212,701255,Account Type,Gold,2023-04-15
+213,706102,Ethnicity,White,2023-04-15
+214,706102,Date of Birth,6/19/1958,2023-04-15
+215,706102,Account Type,Platinum,2023-04-15
+216,226852,Ethnicity,Black,2023-04-14
+217,226852,Date of Birth,2/24/2017,2023-04-14
+218,226852,Account Type,Platinum,2023-04-14
+219,451214,Ethnicity,White,2023-04-04
+220,451214,Date of Birth,4/13/1992,2023-04-04
+221,451214,Account Type,Platinum,2023-04-04
+222,922365,Ethnicity,Asian,2023-04-13
+223,922365,Date of Birth,8/11/2011,2023-04-13
+224,922365,Account Type,Basic,2023-04-13
+225,656164,Ethnicity,Asian,2023-04-02
+226,656164,Date of Birth,7/22/1956,2023-04-02
+227,656164,Account Type,Basic,2023-04-02
+228,628443,Ethnicity,Other,2023-04-29
+229,628443,Date of Birth,6/22/1970,2023-04-29
+230,628443,Account Type,Platinum,2023-04-29
+231,385445,Ethnicity,Black,2023-04-19
+232,385445,Date of Birth,1/29/1957,2023-04-19
+233,385445,Account Type,Basic,2023-04-19
+234,382490,Ethnicity,Other,2023-04-28
+235,382490,Date of Birth,11/6/1997,2023-04-28
+236,382490,Account Type,Gold,2023-04-28
+237,609432,Ethnicity,Other,2023-04-13
+238,609432,Date of Birth,5/28/2009,2023-04-13
+239,609432,Account Type,Platinum,2023-04-13
+240,984843,Ethnicity,Asian,2023-04-28
+241,984843,Date of Birth,9/23/1958,2023-04-28
+242,984843,Account Type,Platinum,2023-04-28
+243,499108,Ethnicity,White,2023-04-11
+244,499108,Date of Birth,11/21/1949,2023-04-11
+245,499108,Account Type,Platinum,2023-04-11
+246,867196,Ethnicity,Other,2023-04-08
+247,867196,Date of Birth,6/18/1953,2023-04-08
+248,867196,Account Type,Basic,2023-04-08
+249,552566,Ethnicity,White,2023-04-28
+250,552566,Date of Birth,2/4/1950,2023-04-28
+251,552566,Account Type,Gold,2023-04-28
+252,381217,Ethnicity,White,2023-04-28
+253,381217,Date of Birth,8/5/1962,2023-04-28
+254,381217,Account Type,Basic,2023-04-28
+255,779629,Ethnicity,White,2023-04-13
+256,779629,Date of Birth,6/30/1993,2023-04-13
+257,779629,Account Type,Platinum,2023-04-13
+258,484119,Ethnicity,Other,2023-04-08
+259,484119,Date of Birth,9/30/1974,2023-04-08
+260,484119,Account Type,Gold,2023-04-08
+261,189566,Ethnicity,Other,2023-04-14
+262,189566,Date of Birth,9/8/1962,2023-04-14
+263,189566,Account Type,Basic,2023-04-14
+264,589251,Ethnicity,White,2023-04-03
+265,589251,Date of Birth,6/1/1943,2023-04-03
+266,589251,Account Type,Platinum,2023-04-03
+267,934663,Ethnicity,Black,2023-04-27
+268,934663,Date of Birth,1/29/1969,2023-04-27
+269,934663,Account Type,Basic,2023-04-27
+270,528483,Ethnicity,Black,2023-04-26
+271,528483,Date of Birth,5/3/2010,2023-04-26
+272,528483,Account Type,Platinum,2023-04-26
+0,239922,Ethnicity,Asian,2023-05-15
+1,239922,Date of Birth,10/31/1989,2023-05-15
+2,239922,Account Type,Basic,2023-05-15
+3,131879,Ethnicity,Other,2023-05-04
+4,131879,Date of Birth,9/2/1952,2023-05-04
+5,131879,Account Type,Platinum,2023-05-04
+6,828717,Ethnicity,White,2023-05-04
+7,828717,Date of Birth,10/8/1978,2023-05-04
+8,828717,Account Type,Basic,2023-05-04
+9,426552,Ethnicity,White,2023-05-24
+10,426552,Date of Birth,9/13/1995,2023-05-24
+11,426552,Account Type,Gold,2023-05-24
+12,742714,Ethnicity,Black,2023-05-05
+13,742714,Date of Birth,4/4/1968,2023-05-05
+14,742714,Account Type,Gold,2023-05-05
+15,112311,Ethnicity,Other,2023-05-09
+16,112311,Date of Birth,8/11/1990,2023-05-09
+17,112311,Account Type,Gold,2023-05-09
+18,878515,Ethnicity,Other,2023-05-07
+19,878515,Date of Birth,7/21/1989,2023-05-07
+20,878515,Account Type,Gold,2023-05-07
+21,942174,Ethnicity,White,2023-05-10
+22,942174,Date of Birth,6/11/1984,2023-05-10
+23,942174,Account Type,Gold,2023-05-10
+24,319191,Ethnicity,Other,2023-05-07
+25,319191,Date of Birth,12/16/2010,2023-05-07
+26,319191,Account Type,Platinum,2023-05-07
+27,296948,Ethnicity,Black,2023-05-21
+28,296948,Date of Birth,12/10/1986,2023-05-21
+29,296948,Account Type,Platinum,2023-05-21
+30,778767,Ethnicity,White,2023-05-12
+31,778767,Date of Birth,6/5/1991,2023-05-12
+32,778767,Account Type,Basic,2023-05-12
+33,569694,Ethnicity,Black,2023-05-24
+34,569694,Date of Birth,11/7/2018,2023-05-24
+35,569694,Account Type,Platinum,2023-05-24
+36,433632,Ethnicity,White,2023-05-01
+37,433632,Date of Birth,9/27/1992,2023-05-01
+38,433632,Account Type,Platinum,2023-05-01
+39,210741,Ethnicity,White,2023-05-15
+40,210741,Date of Birth,1/8/1985,2023-05-15
+41,210741,Account Type,Gold,2023-05-15
+42,636423,Ethnicity,Asian,2023-05-20
+43,636423,Date of Birth,7/4/1983,2023-05-20
+44,636423,Account Type,Platinum,2023-05-20
+45,979652,Ethnicity,Black,2023-05-15
+46,979652,Date of Birth,5/23/1956,2023-05-15
+47,979652,Account Type,Platinum,2023-05-15
+48,801200,Ethnicity,Black,2023-05-15
+49,801200,Date of Birth,1/25/1979,2023-05-15
+50,801200,Account Type,Platinum,2023-05-15
+51,775261,Ethnicity,White,2023-05-03
+52,775261,Date of Birth,2/23/1952,2023-05-03
+53,775261,Account Type,Gold,2023-05-03
+54,127541,Ethnicity,Asian,2023-05-15
+55,127541,Date of Birth,7/13/2016,2023-05-15
+56,127541,Account Type,Gold,2023-05-15
+57,442783,Ethnicity,Asian,2023-05-15
+58,442783,Date of Birth,12/18/2007,2023-05-15
+59,442783,Account Type,Gold,2023-05-15
+60,610159,Ethnicity,Black,2023-05-09
+61,610159,Date of Birth,12/5/2005,2023-05-09
+62,610159,Account Type,Gold,2023-05-09
+63,280225,Ethnicity,Asian,2023-05-14
+64,280225,Date of Birth,8/25/1996,2023-05-14
+65,280225,Account Type,Platinum,2023-05-14
+66,659716,Ethnicity,Black,2023-05-27
+67,659716,Date of Birth,11/9/2008,2023-05-27
+68,659716,Account Type,Platinum,2023-05-27
+69,500890,Ethnicity,White,2023-05-12
+70,500890,Date of Birth,10/15/1958,2023-05-12
+71,500890,Account Type,Basic,2023-05-12
+72,497082,Ethnicity,Other,2023-05-08
+73,497082,Date of Birth,1/3/1969,2023-05-08
+74,497082,Account Type,Platinum,2023-05-08
+75,397269,Ethnicity,Other,2023-05-03
+76,397269,Date of Birth,6/8/2001,2023-05-03
+77,397269,Account Type,Platinum,2023-05-03
+78,747682,Ethnicity,Black,2023-05-21
+79,747682,Date of Birth,12/4/1985,2023-05-21
+80,747682,Account Type,Platinum,2023-05-21
+81,682562,Ethnicity,Black,2023-05-25
+82,682562,Date of Birth,4/16/1984,2023-05-25
+83,682562,Account Type,Basic,2023-05-25
+84,444025,Ethnicity,Black,2023-05-28
+85,444025,Date of Birth,4/8/1997,2023-05-28
+86,444025,Account Type,Platinum,2023-05-28
+87,597131,Ethnicity,White,2023-05-24
+88,597131,Date of Birth,5/17/1954,2023-05-24
+89,597131,Account Type,Gold,2023-05-24
+90,723823,Ethnicity,White,2023-05-31
+91,723823,Date of Birth,5/17/2005,2023-05-31
+92,723823,Account Type,Basic,2023-05-31
+93,637483,Ethnicity,White,2023-05-31
+94,637483,Date of Birth,8/21/2009,2023-05-31
+95,637483,Account Type,Basic,2023-05-31
+96,139501,Ethnicity,Asian,2023-05-17
+97,139501,Date of Birth,1/1/1994,2023-05-17
+98,139501,Account Type,Basic,2023-05-17
+99,662171,Ethnicity,Black,2023-05-05
+100,662171,Date of Birth,10/22/1943,2023-05-05
+101,662171,Account Type,Platinum,2023-05-05
+102,488942,Ethnicity,Other,2023-05-03
+103,488942,Date of Birth,12/2/1958,2023-05-03
+104,488942,Account Type,Basic,2023-05-03
+105,800314,Ethnicity,Other,2023-05-12
+106,800314,Date of Birth,7/20/1963,2023-05-12
+107,800314,Account Type,Basic,2023-05-12
+108,631634,Ethnicity,Asian,2023-05-29
+109,631634,Date of Birth,1/1/1940,2023-05-29
+110,631634,Account Type,Basic,2023-05-29
+111,773841,Ethnicity,Other,2023-05-19
+112,773841,Date of Birth,3/18/1990,2023-05-19
+113,773841,Account Type,Platinum,2023-05-19
+114,143337,Ethnicity,Other,2023-05-17
+115,143337,Date of Birth,6/21/1980,2023-05-17
+116,143337,Account Type,Gold,2023-05-17
+117,199260,Ethnicity,Other,2023-05-10
+118,199260,Date of Birth,1/31/1992,2023-05-10
+119,199260,Account Type,Basic,2023-05-10
+120,177977,Ethnicity,Asian,2023-05-10
+121,177977,Date of Birth,4/2/1957,2023-05-10
+122,177977,Account Type,Basic,2023-05-10
+123,633141,Ethnicity,White,2023-05-30
+124,633141,Date of Birth,5/20/1943,2023-05-30
+125,633141,Account Type,Basic,2023-05-30
+126,884949,Ethnicity,Asian,2023-05-31
+127,884949,Date of Birth,12/3/1943,2023-05-31
+128,884949,Account Type,Gold,2023-05-31
+129,222860,Ethnicity,Black,2023-05-23
+130,222860,Date of Birth,2/11/2012,2023-05-23
+131,222860,Account Type,Basic,2023-05-23
+132,843274,Ethnicity,Other,2023-05-22
+133,843274,Date of Birth,8/11/1941,2023-05-22
+134,843274,Account Type,Basic,2023-05-22
+135,261620,Ethnicity,Black,2023-05-07
+136,261620,Date of Birth,7/30/1990,2023-05-07
+137,261620,Account Type,Gold,2023-05-07
+138,738405,Ethnicity,Asian,2023-05-02
+139,738405,Date of Birth,10/12/1952,2023-05-02
+140,738405,Account Type,Basic,2023-05-02
+141,209144,Ethnicity,Black,2023-05-02
+142,209144,Date of Birth,11/22/1948,2023-05-02
+143,209144,Account Type,Basic,2023-05-02
+144,549243,Ethnicity,Black,2023-05-01
+145,549243,Date of Birth,6/7/1947,2023-05-01
+146,549243,Account Type,Gold,2023-05-01
+147,189930,Ethnicity,White,2023-05-05
+148,189930,Date of Birth,1/9/1983,2023-05-05
+149,189930,Account Type,Gold,2023-05-05
+150,522270,Ethnicity,Black,2023-05-01
+151,522270,Date of Birth,11/21/1940,2023-05-01
+152,522270,Account Type,Basic,2023-05-01
+153,293145,Ethnicity,Black,2023-05-29
+154,293145,Date of Birth,8/7/1989,2023-05-29
+155,293145,Account Type,Gold,2023-05-29
+156,520059,Ethnicity,Asian,2023-05-02
+157,520059,Date of Birth,1/26/1942,2023-05-02
+158,520059,Account Type,Gold,2023-05-02
+159,219792,Ethnicity,Black,2023-05-12
+160,219792,Date of Birth,4/21/2003,2023-05-12
+161,219792,Account Type,Gold,2023-05-12
+162,509391,Ethnicity,Other,2023-05-27
+163,509391,Date of Birth,11/6/1947,2023-05-27
+164,509391,Account Type,Platinum,2023-05-27
+165,985783,Ethnicity,Asian,2023-05-06
+166,985783,Date of Birth,3/28/1951,2023-05-06
+167,985783,Account Type,Basic,2023-05-06
+168,838883,Ethnicity,White,2023-05-29
+169,838883,Date of Birth,12/10/1980,2023-05-29
+170,838883,Account Type,Basic,2023-05-29
+171,367979,Ethnicity,Black,2023-05-18
+172,367979,Date of Birth,9/15/1983,2023-05-18
+173,367979,Account Type,Basic,2023-05-18
+174,366023,Ethnicity,Asian,2023-05-02
+175,366023,Date of Birth,1/1/1986,2023-05-02
+176,366023,Account Type,Basic,2023-05-02
+177,459470,Ethnicity,Black,2023-05-10
+178,459470,Date of Birth,9/13/1987,2023-05-10
+179,459470,Account Type,Platinum,2023-05-10
+180,875629,Ethnicity,Other,2023-05-20
+181,875629,Date of Birth,6/4/1950,2023-05-20
+182,875629,Account Type,Basic,2023-05-20
+183,514214,Ethnicity,Other,2023-05-09
+184,514214,Date of Birth,7/9/1941,2023-05-09
+185,514214,Account Type,Platinum,2023-05-09
+186,546645,Ethnicity,Asian,2023-05-24
+187,546645,Date of Birth,9/6/1971,2023-05-24
+188,546645,Account Type,Gold,2023-05-24
+189,300208,Ethnicity,White,2023-05-11
+190,300208,Date of Birth,4/3/2008,2023-05-11
+191,300208,Account Type,Gold,2023-05-11
+192,512509,Ethnicity,White,2023-05-22
+193,512509,Date of Birth,4/16/1991,2023-05-22
+194,512509,Account Type,Gold,2023-05-22
+195,930802,Ethnicity,Asian,2023-05-14
+196,930802,Date of Birth,2/18/2018,2023-05-14
+197,930802,Account Type,Gold,2023-05-14
+198,730864,Ethnicity,Other,2023-05-24
+199,730864,Date of Birth,4/26/2015,2023-05-24
+200,730864,Account Type,Gold,2023-05-24
+201,215044,Ethnicity,White,2023-05-09
+202,215044,Date of Birth,9/11/2011,2023-05-09
+203,215044,Account Type,Basic,2023-05-09
+204,525493,Ethnicity,Other,2023-05-21
+205,525493,Date of Birth,3/28/1976,2023-05-21
+206,525493,Account Type,Platinum,2023-05-21
+207,159526,Ethnicity,Asian,2023-05-09
+208,159526,Date of Birth,12/22/1986,2023-05-09
+209,159526,Account Type,Basic,2023-05-09
+210,366251,Ethnicity,Other,2023-05-22
+211,366251,Date of Birth,8/28/1963,2023-05-22
+212,366251,Account Type,Gold,2023-05-22
+213,490418,Ethnicity,White,2023-05-02
+214,490418,Date of Birth,9/29/1950,2023-05-02
+215,490418,Account Type,Basic,2023-05-02
+216,100185,Ethnicity,Asian,2023-05-20
+217,100185,Date of Birth,7/29/1952,2023-05-20
+218,100185,Account Type,Basic,2023-05-20
+219,586258,Ethnicity,Black,2023-05-30
+220,586258,Date of Birth,12/12/2018,2023-05-30
+221,586258,Account Type,Platinum,2023-05-30
+222,352584,Ethnicity,Black,2023-05-16
+223,352584,Date of Birth,6/13/2000,2023-05-16
+224,352584,Account Type,Basic,2023-05-16
+225,248692,Ethnicity,Black,2023-05-01
+226,248692,Date of Birth,3/10/1949,2023-05-01
+227,248692,Account Type,Basic,2023-05-01
+0,221128,Ethnicity,Black,2023-06-29
+1,221128,Date of Birth,8/16/1978,2023-06-29
+2,221128,Account Type,Basic,2023-06-29
+3,621556,Ethnicity,White,2023-06-18
+4,621556,Date of Birth,12/12/2010,2023-06-18
+5,621556,Account Type,Basic,2023-06-18
+6,725200,Ethnicity,Asian,2023-06-23
+7,725200,Date of Birth,3/26/1952,2023-06-23
+8,725200,Account Type,Basic,2023-06-23
+9,120476,Ethnicity,Other,2023-06-18
+10,120476,Date of Birth,5/27/1976,2023-06-18
+11,120476,Account Type,Platinum,2023-06-18
+12,314997,Ethnicity,Other,2023-06-23
+13,314997,Date of Birth,7/31/2001,2023-06-23
+14,314997,Account Type,Gold,2023-06-23
+15,667852,Ethnicity,Black,2023-06-27
+16,667852,Date of Birth,3/28/1947,2023-06-27
+17,667852,Account Type,Basic,2023-06-27
+18,890532,Ethnicity,White,2023-06-16
+19,890532,Date of Birth,4/15/1988,2023-06-16
+20,890532,Account Type,Gold,2023-06-16
+21,223660,Ethnicity,White,2023-06-28
+22,223660,Date of Birth,10/20/1986,2023-06-28
+23,223660,Account Type,Gold,2023-06-28
+24,460383,Ethnicity,Black,2023-06-29
+25,460383,Date of Birth,8/16/1994,2023-06-29
+26,460383,Account Type,Basic,2023-06-29
+27,994289,Ethnicity,White,2023-06-16
+28,994289,Date of Birth,5/9/1990,2023-06-16
+29,994289,Account Type,Gold,2023-06-16
+30,202785,Ethnicity,Black,2023-06-08
+31,202785,Date of Birth,9/11/1948,2023-06-08
+32,202785,Account Type,Platinum,2023-06-08
+33,539530,Ethnicity,Other,2023-06-20
+34,539530,Date of Birth,3/2/1983,2023-06-20
+35,539530,Account Type,Basic,2023-06-20
+36,868733,Ethnicity,Asian,2023-06-22
+37,868733,Date of Birth,2/17/1967,2023-06-22
+38,868733,Account Type,Basic,2023-06-22
+39,970794,Ethnicity,Asian,2023-06-26
+40,970794,Date of Birth,11/1/1969,2023-06-26
+41,970794,Account Type,Platinum,2023-06-26
+42,467340,Ethnicity,White,2023-06-19
+43,467340,Date of Birth,9/4/1984,2023-06-19
+44,467340,Account Type,Platinum,2023-06-19
+45,569939,Ethnicity,Black,2023-06-15
+46,569939,Date of Birth,12/11/2015,2023-06-15
+47,569939,Account Type,Gold,2023-06-15
+48,925655,Ethnicity,Asian,2023-06-26
+49,925655,Date of Birth,12/26/2017,2023-06-26
+50,925655,Account Type,Gold,2023-06-26
+51,589567,Ethnicity,Black,2023-06-17
+52,589567,Date of Birth,5/10/1961,2023-06-17
+53,589567,Account Type,Platinum,2023-06-17
+54,957074,Ethnicity,Other,2023-06-28
+55,957074,Date of Birth,9/18/1964,2023-06-28
+56,957074,Account Type,Gold,2023-06-28
+57,601428,Ethnicity,White,2023-06-29
+58,601428,Date of Birth,12/23/1980,2023-06-29
+59,601428,Account Type,Platinum,2023-06-29
+60,713519,Ethnicity,White,2023-06-04
+61,713519,Date of Birth,2/25/1964,2023-06-04
+62,713519,Account Type,Gold,2023-06-04
+63,149481,Ethnicity,Asian,2023-06-18
+64,149481,Date of Birth,6/26/1959,2023-06-18
+65,149481,Account Type,Basic,2023-06-18
+66,496679,Ethnicity,Black,2023-06-08
+67,496679,Date of Birth,10/19/1951,2023-06-08
+68,496679,Account Type,Basic,2023-06-08
+69,549280,Ethnicity,Black,2023-06-30
+70,549280,Date of Birth,12/3/1971,2023-06-30
+71,549280,Account Type,Platinum,2023-06-30
+72,731015,Ethnicity,Other,2023-06-10
+73,731015,Date of Birth,12/2/1955,2023-06-10
+74,731015,Account Type,Basic,2023-06-10
+75,564633,Ethnicity,Black,2023-06-20
+76,564633,Date of Birth,6/1/2011,2023-06-20
+77,564633,Account Type,Gold,2023-06-20
+78,979311,Ethnicity,White,2023-06-08
+79,979311,Date of Birth,12/8/2010,2023-06-08
+80,979311,Account Type,Platinum,2023-06-08
+81,492316,Ethnicity,Other,2023-06-13
+82,492316,Date of Birth,5/28/1964,2023-06-13
+83,492316,Account Type,Platinum,2023-06-13
+84,458440,Ethnicity,White,2023-06-04
+85,458440,Date of Birth,7/21/1989,2023-06-04
+86,458440,Account Type,Gold,2023-06-04
+87,850891,Ethnicity,Black,2023-06-11
+88,850891,Date of Birth,4/14/1941,2023-06-11
+89,850891,Account Type,Basic,2023-06-11
+90,560790,Ethnicity,Other,2023-06-01
+91,560790,Date of Birth,5/25/2006,2023-06-01
+92,560790,Account Type,Basic,2023-06-01
+93,336329,Ethnicity,White,2023-06-28
+94,336329,Date of Birth,1/23/1947,2023-06-28
+95,336329,Account Type,Platinum,2023-06-28
+96,202010,Ethnicity,Black,2023-06-09
+97,202010,Date of Birth,11/23/1988,2023-06-09
+98,202010,Account Type,Gold,2023-06-09
+99,649840,Ethnicity,Asian,2023-06-11
+100,649840,Date of Birth,2/28/1947,2023-06-11
+101,649840,Account Type,Basic,2023-06-11
+102,949894,Ethnicity,Asian,2023-06-22
+103,949894,Date of Birth,12/21/1946,2023-06-22
+104,949894,Account Type,Gold,2023-06-22
+105,234458,Ethnicity,White,2023-06-27
+106,234458,Date of Birth,5/29/2010,2023-06-27
+107,234458,Account Type,Basic,2023-06-27
+108,466462,Ethnicity,Black,2023-06-19
+109,466462,Date of Birth,5/8/1942,2023-06-19
+110,466462,Account Type,Platinum,2023-06-19
+111,571041,Ethnicity,Other,2023-06-07
+112,571041,Date of Birth,4/16/1947,2023-06-07
+113,571041,Account Type,Basic,2023-06-07
+114,847929,Ethnicity,Asian,2023-06-16
+115,847929,Date of Birth,10/14/1951,2023-06-16
+116,847929,Account Type,Basic,2023-06-16
+117,865336,Ethnicity,Other,2023-06-15
+118,865336,Date of Birth,11/27/1969,2023-06-15
+119,865336,Account Type,Gold,2023-06-15
+120,900289,Ethnicity,Other,2023-06-16
+121,900289,Date of Birth,1/29/1987,2023-06-16
+122,900289,Account Type,Basic,2023-06-16
+123,343987,Ethnicity,Other,2023-06-25
+124,343987,Date of Birth,7/31/2010,2023-06-25
+125,343987,Account Type,Gold,2023-06-25
+126,345349,Ethnicity,Black,2023-06-26
+127,345349,Date of Birth,2/22/2013,2023-06-26
+128,345349,Account Type,Basic,2023-06-26
+129,430898,Ethnicity,Other,2023-06-11
+130,430898,Date of Birth,5/4/1947,2023-06-11
+131,430898,Account Type,Basic,2023-06-11
+132,131132,Ethnicity,White,2023-06-29
+133,131132,Date of Birth,8/6/1949,2023-06-29
+134,131132,Account Type,Platinum,2023-06-29
+135,814220,Ethnicity,Other,2023-06-09
+136,814220,Date of Birth,4/21/1942,2023-06-09
+137,814220,Account Type,Basic,2023-06-09
+138,467421,Ethnicity,Asian,2023-06-02
+139,467421,Date of Birth,4/12/1975,2023-06-02
+140,467421,Account Type,Basic,2023-06-02
+141,687384,Ethnicity,Asian,2023-06-15
+142,687384,Date of Birth,4/2/1963,2023-06-15
+143,687384,Account Type,Basic,2023-06-15
+144,202946,Ethnicity,Black,2023-06-18
+145,202946,Date of Birth,9/16/1960,2023-06-18
+146,202946,Account Type,Gold,2023-06-18
+147,683299,Ethnicity,Asian,2023-06-05
+148,683299,Date of Birth,9/12/2000,2023-06-05
+149,683299,Account Type,Basic,2023-06-05
+150,503844,Ethnicity,Asian,2023-06-25
+151,503844,Date of Birth,10/2/1981,2023-06-25
+152,503844,Account Type,Basic,2023-06-25
+153,214055,Ethnicity,Asian,2023-06-21
+154,214055,Date of Birth,12/4/1976,2023-06-21
+155,214055,Account Type,Basic,2023-06-21
+156,830903,Ethnicity,Other,2023-06-07
+157,830903,Date of Birth,3/3/1994,2023-06-07
+158,830903,Account Type,Gold,2023-06-07
+159,654273,Ethnicity,Black,2023-06-16
+160,654273,Date of Birth,10/10/1942,2023-06-16
+161,654273,Account Type,Gold,2023-06-16
+162,451936,Ethnicity,Asian,2023-06-10
+163,451936,Date of Birth,10/22/1958,2023-06-10
+164,451936,Account Type,Basic,2023-06-10
+165,561709,Ethnicity,Asian,2023-06-30
+166,561709,Date of Birth,11/23/1959,2023-06-30
+167,561709,Account Type,Basic,2023-06-30
+168,603071,Ethnicity,Other,2023-06-25
+169,603071,Date of Birth,5/7/1969,2023-06-25
+170,603071,Account Type,Basic,2023-06-25
+171,298919,Ethnicity,Asian,2023-06-03
+172,298919,Date of Birth,7/17/2008,2023-06-03
+173,298919,Account Type,Platinum,2023-06-03
+174,729571,Ethnicity,Black,2023-06-26
+175,729571,Date of Birth,8/1/2004,2023-06-26
+176,729571,Account Type,Platinum,2023-06-26
+177,182216,Ethnicity,Other,2023-06-11
+178,182216,Date of Birth,2/13/1979,2023-06-11
+179,182216,Account Type,Platinum,2023-06-11
+180,510071,Ethnicity,Other,2023-06-13
+181,510071,Date of Birth,10/10/1992,2023-06-13
+182,510071,Account Type,Platinum,2023-06-13
+183,610633,Ethnicity,Black,2023-06-08
+184,610633,Date of Birth,7/13/1993,2023-06-08
+185,610633,Account Type,Gold,2023-06-08
+186,339084,Ethnicity,Asian,2023-06-27
+187,339084,Date of Birth,10/6/1963,2023-06-27
+188,339084,Account Type,Platinum,2023-06-27
+189,397552,Ethnicity,Other,2023-06-11
+190,397552,Date of Birth,10/31/1941,2023-06-11
+191,397552,Account Type,Gold,2023-06-11
+192,918799,Ethnicity,White,2023-06-04
+193,918799,Date of Birth,10/22/2010,2023-06-04
+194,918799,Account Type,Gold,2023-06-04
+195,700604,Ethnicity,White,2023-06-30
+196,700604,Date of Birth,8/24/1969,2023-06-30
+197,700604,Account Type,Gold,2023-06-30
+198,466954,Ethnicity,Black,2023-06-17
+199,466954,Date of Birth,3/5/1955,2023-06-17
+200,466954,Account Type,Basic,2023-06-17
+201,128016,Ethnicity,Black,2023-06-04
+202,128016,Date of Birth,10/26/1952,2023-06-04
+203,128016,Account Type,Platinum,2023-06-04
+204,436308,Ethnicity,White,2023-06-24
+205,436308,Date of Birth,10/3/1959,2023-06-24
+206,436308,Account Type,Basic,2023-06-24
+207,325644,Ethnicity,White,2023-06-24
+208,325644,Date of Birth,3/20/1995,2023-06-24
+209,325644,Account Type,Basic,2023-06-24
+210,809555,Ethnicity,Other,2023-06-26
+211,809555,Date of Birth,5/7/1952,2023-06-26
+212,809555,Account Type,Basic,2023-06-26
+213,907496,Ethnicity,Asian,2023-06-09
+214,907496,Date of Birth,12/22/2002,2023-06-09
+215,907496,Account Type,Platinum,2023-06-09
+216,459563,Ethnicity,Black,2023-06-06
+217,459563,Date of Birth,3/15/1963,2023-06-06
+218,459563,Account Type,Gold,2023-06-06
+219,302454,Ethnicity,Asian,2023-06-19
+220,302454,Date of Birth,7/25/2018,2023-06-19
+221,302454,Account Type,Platinum,2023-06-19
+222,791553,Ethnicity,White,2023-06-28
+223,791553,Date of Birth,9/24/1982,2023-06-28
+224,791553,Account Type,Gold,2023-06-28
+225,785906,Ethnicity,Asian,2023-06-22
+226,785906,Date of Birth,6/20/1967,2023-06-22
+227,785906,Account Type,Basic,2023-06-22
+228,717206,Ethnicity,Black,2023-06-21
+229,717206,Date of Birth,6/19/1963,2023-06-21
+230,717206,Account Type,Platinum,2023-06-21
+231,993112,Ethnicity,Asian,2023-06-30
+232,993112,Date of Birth,10/2/1942,2023-06-30
+233,993112,Account Type,Platinum,2023-06-30
+234,369873,Ethnicity,Black,2023-06-10
+235,369873,Date of Birth,9/8/1972,2023-06-10
+236,369873,Account Type,Gold,2023-06-10
+237,637797,Ethnicity,Asian,2023-06-01
+238,637797,Date of Birth,9/11/1956,2023-06-01
+239,637797,Account Type,Platinum,2023-06-01
+240,304982,Ethnicity,Other,2023-06-25
+241,304982,Date of Birth,4/8/1979,2023-06-25
+242,304982,Account Type,Platinum,2023-06-25
+243,338686,Ethnicity,White,2023-06-25
+244,338686,Date of Birth,12/17/1979,2023-06-25
+245,338686,Account Type,Gold,2023-06-25
+246,768053,Ethnicity,White,2023-06-14
+247,768053,Date of Birth,1/17/1998,2023-06-14
+248,768053,Account Type,Gold,2023-06-14
+249,349244,Ethnicity,Asian,2023-06-03
+250,349244,Date of Birth,1/18/2007,2023-06-03
+251,349244,Account Type,Basic,2023-06-03
+252,628497,Ethnicity,Asian,2023-06-21
+253,628497,Date of Birth,10/26/2005,2023-06-21
+254,628497,Account Type,Platinum,2023-06-21
+255,560440,Ethnicity,Asian,2023-06-24
+256,560440,Date of Birth,5/30/1979,2023-06-24
+257,560440,Account Type,Basic,2023-06-24
+258,881325,Ethnicity,Other,2023-06-21
+259,881325,Date of Birth,7/11/1981,2023-06-21
+260,881325,Account Type,Basic,2023-06-21
+261,311336,Ethnicity,Black,2023-06-22
+262,311336,Date of Birth,11/12/2018,2023-06-22
+263,311336,Account Type,Platinum,2023-06-22
+0,245830,Ethnicity,Asian,2023-07-06
+1,245830,Date of Birth,9/2/1972,2023-07-06
+2,245830,Account Type,Basic,2023-07-06
+3,814161,Ethnicity,Black,2023-07-03
+4,814161,Date of Birth,12/2/1999,2023-07-03
+5,814161,Account Type,Gold,2023-07-03
+6,593940,Ethnicity,Black,2023-07-16
+7,593940,Date of Birth,3/18/1981,2023-07-16
+8,593940,Account Type,Gold,2023-07-16
+9,419675,Ethnicity,Black,2023-07-27
+10,419675,Date of Birth,6/19/1965,2023-07-27
+11,419675,Account Type,Gold,2023-07-27
+12,849187,Ethnicity,Other,2023-07-08
+13,849187,Date of Birth,10/27/1951,2023-07-08
+14,849187,Account Type,Platinum,2023-07-08
+15,704346,Ethnicity,Other,2023-07-13
+16,704346,Date of Birth,11/4/1978,2023-07-13
+17,704346,Account Type,Gold,2023-07-13
+18,116248,Ethnicity,White,2023-07-02
+19,116248,Date of Birth,2/4/2004,2023-07-02
+20,116248,Account Type,Basic,2023-07-02
+21,489429,Ethnicity,Black,2023-07-01
+22,489429,Date of Birth,11/16/2007,2023-07-01
+23,489429,Account Type,Platinum,2023-07-01
+24,424911,Ethnicity,Asian,2023-07-16
+25,424911,Date of Birth,3/21/1947,2023-07-16
+26,424911,Account Type,Platinum,2023-07-16
+27,970978,Ethnicity,White,2023-07-08
+28,970978,Date of Birth,1/28/1945,2023-07-08
+29,970978,Account Type,Platinum,2023-07-08
+30,494955,Ethnicity,Other,2023-07-17
+31,494955,Date of Birth,7/2/1985,2023-07-17
+32,494955,Account Type,Platinum,2023-07-17
+33,481921,Ethnicity,Asian,2023-07-19
+34,481921,Date of Birth,5/5/1970,2023-07-19
+35,481921,Account Type,Gold,2023-07-19
+36,823045,Ethnicity,Black,2023-07-12
+37,823045,Date of Birth,1/23/1990,2023-07-12
+38,823045,Account Type,Basic,2023-07-12
+39,990258,Ethnicity,Black,2023-07-16
+40,990258,Date of Birth,12/3/1998,2023-07-16
+41,990258,Account Type,Gold,2023-07-16
+42,681753,Ethnicity,Black,2023-07-07
+43,681753,Date of Birth,9/1/2019,2023-07-07
+44,681753,Account Type,Basic,2023-07-07
+45,465769,Ethnicity,White,2023-07-14
+46,465769,Date of Birth,2/10/1979,2023-07-14
+47,465769,Account Type,Platinum,2023-07-14
+48,890720,Ethnicity,White,2023-07-07
+49,890720,Date of Birth,9/20/1967,2023-07-07
+50,890720,Account Type,Gold,2023-07-07
+51,514489,Ethnicity,Black,2023-07-10
+52,514489,Date of Birth,5/3/2005,2023-07-10
+53,514489,Account Type,Basic,2023-07-10
+54,964885,Ethnicity,Asian,2023-07-31
+55,964885,Date of Birth,1/5/1990,2023-07-31
+56,964885,Account Type,Basic,2023-07-31
+57,256154,Ethnicity,Asian,2023-07-12
+58,256154,Date of Birth,3/30/1957,2023-07-12
+59,256154,Account Type,Gold,2023-07-12
+60,115578,Ethnicity,Black,2023-07-29
+61,115578,Date of Birth,9/2/1961,2023-07-29
+62,115578,Account Type,Gold,2023-07-29
+63,111490,Ethnicity,Black,2023-07-02
+64,111490,Date of Birth,3/1/1946,2023-07-02
+65,111490,Account Type,Basic,2023-07-02
+66,344841,Ethnicity,White,2023-07-30
+67,344841,Date of Birth,12/9/2002,2023-07-30
+68,344841,Account Type,Basic,2023-07-30
+69,210727,Ethnicity,White,2023-07-25
+70,210727,Date of Birth,4/6/1968,2023-07-25
+71,210727,Account Type,Platinum,2023-07-25
+72,466664,Ethnicity,Asian,2023-07-16
+73,466664,Date of Birth,5/14/1981,2023-07-16
+74,466664,Account Type,Basic,2023-07-16
+75,739156,Ethnicity,White,2023-07-27
+76,739156,Date of Birth,10/20/1976,2023-07-27
+77,739156,Account Type,Platinum,2023-07-27
+78,192752,Ethnicity,Asian,2023-07-12
+79,192752,Date of Birth,8/29/1981,2023-07-12
+80,192752,Account Type,Basic,2023-07-12
+81,656037,Ethnicity,White,2023-07-11
+82,656037,Date of Birth,8/17/1961,2023-07-11
+83,656037,Account Type,Platinum,2023-07-11
+84,316468,Ethnicity,Asian,2023-07-23
+85,316468,Date of Birth,9/22/1963,2023-07-23
+86,316468,Account Type,Gold,2023-07-23
+87,788351,Ethnicity,White,2023-07-14
+88,788351,Date of Birth,5/7/1985,2023-07-14
+89,788351,Account Type,Platinum,2023-07-14
+90,114484,Ethnicity,Black,2023-07-20
+91,114484,Date of Birth,1/19/1987,2023-07-20
+92,114484,Account Type,Basic,2023-07-20
+93,211683,Ethnicity,Other,2023-07-02
+94,211683,Date of Birth,9/4/2005,2023-07-02
+95,211683,Account Type,Basic,2023-07-02
+96,212881,Ethnicity,Black,2023-07-16
+97,212881,Date of Birth,3/19/2002,2023-07-16
+98,212881,Account Type,Platinum,2023-07-16
+99,228463,Ethnicity,Other,2023-07-19
+100,228463,Date of Birth,11/20/2011,2023-07-19
+101,228463,Account Type,Gold,2023-07-19
+102,124765,Ethnicity,Black,2023-07-17
+103,124765,Date of Birth,10/15/1965,2023-07-17
+104,124765,Account Type,Basic,2023-07-17
+105,879426,Ethnicity,Other,2023-07-31
+106,879426,Date of Birth,9/28/1996,2023-07-31
+107,879426,Account Type,Gold,2023-07-31
+108,703312,Ethnicity,Other,2023-07-25
+109,703312,Date of Birth,12/18/2012,2023-07-25
+110,703312,Account Type,Gold,2023-07-25
+111,822881,Ethnicity,Other,2023-07-17
+112,822881,Date of Birth,3/26/2012,2023-07-17
+113,822881,Account Type,Gold,2023-07-17
+114,656301,Ethnicity,Asian,2023-07-07
+115,656301,Date of Birth,1/31/1994,2023-07-07
+116,656301,Account Type,Gold,2023-07-07
+117,619806,Ethnicity,Asian,2023-07-17
+118,619806,Date of Birth,2/11/1974,2023-07-17
+119,619806,Account Type,Platinum,2023-07-17
+120,489883,Ethnicity,Asian,2023-07-26
+121,489883,Date of Birth,11/21/1972,2023-07-26
+122,489883,Account Type,Basic,2023-07-26
+123,158161,Ethnicity,White,2023-07-09
+124,158161,Date of Birth,10/15/2014,2023-07-09
+125,158161,Account Type,Basic,2023-07-09
+126,751597,Ethnicity,White,2023-07-14
+127,751597,Date of Birth,12/25/1966,2023-07-14
+128,751597,Account Type,Basic,2023-07-14
+129,766091,Ethnicity,White,2023-07-03
+130,766091,Date of Birth,10/24/2013,2023-07-03
+131,766091,Account Type,Basic,2023-07-03
+132,306535,Ethnicity,Asian,2023-07-13
+133,306535,Date of Birth,12/23/1977,2023-07-13
+134,306535,Account Type,Basic,2023-07-13
+135,306044,Ethnicity,Asian,2023-07-28
+136,306044,Date of Birth,5/13/1993,2023-07-28
+137,306044,Account Type,Platinum,2023-07-28
+138,792923,Ethnicity,White,2023-07-25
+139,792923,Date of Birth,10/16/1958,2023-07-25
+140,792923,Account Type,Basic,2023-07-25
+141,194837,Ethnicity,Other,2023-07-12
+142,194837,Date of Birth,6/28/1962,2023-07-12
+143,194837,Account Type,Platinum,2023-07-12
+144,858519,Ethnicity,White,2023-07-01
+145,858519,Date of Birth,1/27/2000,2023-07-01
+146,858519,Account Type,Gold,2023-07-01
+147,854139,Ethnicity,Other,2023-07-19
+148,854139,Date of Birth,7/12/1978,2023-07-19
+149,854139,Account Type,Platinum,2023-07-19
+150,591539,Ethnicity,White,2023-07-26
+151,591539,Date of Birth,11/7/1986,2023-07-26
+152,591539,Account Type,Basic,2023-07-26
+153,960910,Ethnicity,Black,2023-07-13
+154,960910,Date of Birth,12/16/1997,2023-07-13
+155,960910,Account Type,Basic,2023-07-13
+156,543731,Ethnicity,Asian,2023-07-25
+157,543731,Date of Birth,5/18/1989,2023-07-25
+158,543731,Account Type,Gold,2023-07-25
+159,754172,Ethnicity,White,2023-07-24
+160,754172,Date of Birth,7/21/2011,2023-07-24
+161,754172,Account Type,Basic,2023-07-24
+162,798734,Ethnicity,Black,2023-07-20
+163,798734,Date of Birth,11/5/1957,2023-07-20
+164,798734,Account Type,Gold,2023-07-20
+165,516450,Ethnicity,Black,2023-07-17
+166,516450,Date of Birth,1/12/1986,2023-07-17
+167,516450,Account Type,Gold,2023-07-17
+168,597729,Ethnicity,Other,2023-07-08
+169,597729,Date of Birth,2/7/1958,2023-07-08
+170,597729,Account Type,Basic,2023-07-08
+171,428393,Ethnicity,Black,2023-07-14
+172,428393,Date of Birth,5/12/2008,2023-07-14
+173,428393,Account Type,Basic,2023-07-14
+174,572462,Ethnicity,Black,2023-07-29
+175,572462,Date of Birth,5/29/1965,2023-07-29
+176,572462,Account Type,Platinum,2023-07-29
+177,914893,Ethnicity,White,2023-07-18
+178,914893,Date of Birth,1/3/1969,2023-07-18
+179,914893,Account Type,Basic,2023-07-18
+180,112430,Ethnicity,White,2023-07-19
+181,112430,Date of Birth,12/8/1948,2023-07-19
+182,112430,Account Type,Basic,2023-07-19
+183,220423,Ethnicity,Other,2023-07-04
+184,220423,Date of Birth,5/23/1940,2023-07-04
+185,220423,Account Type,Platinum,2023-07-04
+186,415942,Ethnicity,Asian,2023-07-22
+187,415942,Date of Birth,9/16/1947,2023-07-22
+188,415942,Account Type,Basic,2023-07-22
+189,993957,Ethnicity,Asian,2023-07-17
+190,993957,Date of Birth,3/7/1944,2023-07-17
+191,993957,Account Type,Platinum,2023-07-17
+192,759212,Ethnicity,White,2023-07-29
+193,759212,Date of Birth,10/6/2017,2023-07-29
+194,759212,Account Type,Platinum,2023-07-29
+195,783242,Ethnicity,Other,2023-07-18
+196,783242,Date of Birth,2/12/1952,2023-07-18
+197,783242,Account Type,Basic,2023-07-18
+198,751067,Ethnicity,Black,2023-07-20
+199,751067,Date of Birth,9/6/2000,2023-07-20
+200,751067,Account Type,Platinum,2023-07-20
+201,242782,Ethnicity,Other,2023-07-03
+202,242782,Date of Birth,11/4/1942,2023-07-03
+203,242782,Account Type,Platinum,2023-07-03
+204,563716,Ethnicity,Asian,2023-07-11
+205,563716,Date of Birth,2/3/1989,2023-07-11
+206,563716,Account Type,Platinum,2023-07-11
+207,217393,Ethnicity,Asian,2023-07-24
+208,217393,Date of Birth,10/29/1947,2023-07-24
+209,217393,Account Type,Platinum,2023-07-24
+210,760048,Ethnicity,Black,2023-07-17
+211,760048,Date of Birth,4/17/2011,2023-07-17
+212,760048,Account Type,Basic,2023-07-17
+213,142608,Ethnicity,Black,2023-07-21
+214,142608,Date of Birth,8/16/1994,2023-07-21
+215,142608,Account Type,Gold,2023-07-21
+0,107924,Ethnicity,Black,2023-08-02
+1,107924,Date of Birth,9/2/1975,2023-08-02
+2,107924,Account Type,Gold,2023-08-02
+3,534142,Ethnicity,Black,2023-08-26
+4,534142,Date of Birth,11/9/1954,2023-08-26
+5,534142,Account Type,Gold,2023-08-26
+6,465564,Ethnicity,Asian,2023-08-26
+7,465564,Date of Birth,8/12/2015,2023-08-26
+8,465564,Account Type,Platinum,2023-08-26
+9,488809,Ethnicity,Black,2023-08-23
+10,488809,Date of Birth,7/24/2004,2023-08-23
+11,488809,Account Type,Platinum,2023-08-23
+12,201146,Ethnicity,Black,2023-08-17
+13,201146,Date of Birth,7/1/1976,2023-08-17
+14,201146,Account Type,Basic,2023-08-17
+15,378506,Ethnicity,Other,2023-08-26
+16,378506,Date of Birth,7/8/1968,2023-08-26
+17,378506,Account Type,Basic,2023-08-26
+18,268478,Ethnicity,Black,2023-08-31
+19,268478,Date of Birth,6/14/1952,2023-08-31
+20,268478,Account Type,Gold,2023-08-31
+21,850145,Ethnicity,Other,2023-08-23
+22,850145,Date of Birth,4/4/2019,2023-08-23
+23,850145,Account Type,Gold,2023-08-23
+24,604078,Ethnicity,Asian,2023-08-02
+25,604078,Date of Birth,9/18/1997,2023-08-02
+26,604078,Account Type,Basic,2023-08-02
+27,620952,Ethnicity,White,2023-08-30
+28,620952,Date of Birth,9/5/1979,2023-08-30
+29,620952,Account Type,Platinum,2023-08-30
+30,497542,Ethnicity,White,2023-08-22
+31,497542,Date of Birth,5/19/2005,2023-08-22
+32,497542,Account Type,Gold,2023-08-22
+33,151356,Ethnicity,Asian,2023-08-28
+34,151356,Date of Birth,2/11/2013,2023-08-28
+35,151356,Account Type,Basic,2023-08-28
+36,121769,Ethnicity,Asian,2023-08-13
+37,121769,Date of Birth,12/31/1948,2023-08-13
+38,121769,Account Type,Gold,2023-08-13
+39,647719,Ethnicity,Black,2023-08-01
+40,647719,Date of Birth,7/20/2000,2023-08-01
+41,647719,Account Type,Gold,2023-08-01
+42,124463,Ethnicity,Other,2023-08-18
+43,124463,Date of Birth,5/12/1943,2023-08-18
+44,124463,Account Type,Basic,2023-08-18
+45,642548,Ethnicity,Black,2023-08-08
+46,642548,Date of Birth,6/1/2017,2023-08-08
+47,642548,Account Type,Gold,2023-08-08
+48,115026,Ethnicity,Asian,2023-08-01
+49,115026,Date of Birth,2/26/1993,2023-08-01
+50,115026,Account Type,Basic,2023-08-01
+51,340036,Ethnicity,Other,2023-08-25
+52,340036,Date of Birth,10/16/1952,2023-08-25
+53,340036,Account Type,Gold,2023-08-25
+54,881809,Ethnicity,White,2023-08-10
+55,881809,Date of Birth,10/29/1961,2023-08-10
+56,881809,Account Type,Basic,2023-08-10
+57,127539,Ethnicity,Other,2023-08-27
+58,127539,Date of Birth,10/2/2001,2023-08-27
+59,127539,Account Type,Platinum,2023-08-27
+60,732882,Ethnicity,White,2023-08-18
+61,732882,Date of Birth,6/15/1950,2023-08-18
+62,732882,Account Type,Platinum,2023-08-18
+63,716137,Ethnicity,Other,2023-08-15
+64,716137,Date of Birth,1/6/1987,2023-08-15
+65,716137,Account Type,Basic,2023-08-15
+66,911428,Ethnicity,Black,2023-08-27
+67,911428,Date of Birth,5/4/2005,2023-08-27
+68,911428,Account Type,Gold,2023-08-27
+69,350315,Ethnicity,Black,2023-08-31
+70,350315,Date of Birth,4/11/2014,2023-08-31
+71,350315,Account Type,Gold,2023-08-31
+72,527503,Ethnicity,White,2023-08-15
+73,527503,Date of Birth,1/8/1967,2023-08-15
+74,527503,Account Type,Gold,2023-08-15
+75,793732,Ethnicity,Asian,2023-08-28
+76,793732,Date of Birth,5/19/1986,2023-08-28
+77,793732,Account Type,Platinum,2023-08-28
+78,499227,Ethnicity,Other,2023-08-03
+79,499227,Date of Birth,9/12/1978,2023-08-03
+80,499227,Account Type,Gold,2023-08-03
+81,697757,Ethnicity,Other,2023-08-30
+82,697757,Date of Birth,2/3/1989,2023-08-30
+83,697757,Account Type,Gold,2023-08-30
+84,414182,Ethnicity,White,2023-08-30
+85,414182,Date of Birth,1/24/1973,2023-08-30
+86,414182,Account Type,Gold,2023-08-30
+87,894124,Ethnicity,Asian,2023-08-18
+88,894124,Date of Birth,10/20/1981,2023-08-18
+89,894124,Account Type,Gold,2023-08-18
+90,425443,Ethnicity,Black,2023-08-04
+91,425443,Date of Birth,7/17/1977,2023-08-04
+92,425443,Account Type,Platinum,2023-08-04
+93,557275,Ethnicity,Other,2023-08-09
+94,557275,Date of Birth,9/9/1999,2023-08-09
+95,557275,Account Type,Platinum,2023-08-09
+96,940236,Ethnicity,White,2023-08-20
+97,940236,Date of Birth,12/28/1957,2023-08-20
+98,940236,Account Type,Platinum,2023-08-20
+99,825747,Ethnicity,Black,2023-08-04
+100,825747,Date of Birth,10/7/1958,2023-08-04
+101,825747,Account Type,Basic,2023-08-04
+102,374944,Ethnicity,Black,2023-08-25
+103,374944,Date of Birth,3/20/1965,2023-08-25
+104,374944,Account Type,Basic,2023-08-25
+105,813986,Ethnicity,Other,2023-08-20
+106,813986,Date of Birth,5/2/1979,2023-08-20
+107,813986,Account Type,Gold,2023-08-20
+108,618456,Ethnicity,Asian,2023-08-06
+109,618456,Date of Birth,3/13/2009,2023-08-06
+110,618456,Account Type,Basic,2023-08-06
+111,269274,Ethnicity,White,2023-08-28
+112,269274,Date of Birth,1/8/2000,2023-08-28
+113,269274,Account Type,Platinum,2023-08-28
+114,435115,Ethnicity,Other,2023-08-26
+115,435115,Date of Birth,2/7/2012,2023-08-26
+116,435115,Account Type,Basic,2023-08-26
+117,398707,Ethnicity,Black,2023-08-22
+118,398707,Date of Birth,5/3/2012,2023-08-22
+119,398707,Account Type,Gold,2023-08-22
+120,630270,Ethnicity,Other,2023-08-23
+121,630270,Date of Birth,1/26/1964,2023-08-23
+122,630270,Account Type,Platinum,2023-08-23
+123,253699,Ethnicity,Other,2023-08-23
+124,253699,Date of Birth,12/31/1954,2023-08-23
+125,253699,Account Type,Gold,2023-08-23
+126,951213,Ethnicity,Asian,2023-08-31
+127,951213,Date of Birth,8/29/1982,2023-08-31
+128,951213,Account Type,Basic,2023-08-31
+129,121392,Ethnicity,Black,2023-08-15
+130,121392,Date of Birth,4/6/1980,2023-08-15
+131,121392,Account Type,Gold,2023-08-15
+132,256547,Ethnicity,Black,2023-08-30
+133,256547,Date of Birth,8/21/2013,2023-08-30
+134,256547,Account Type,Gold,2023-08-30
+135,970285,Ethnicity,Other,2023-08-04
+136,970285,Date of Birth,8/21/1988,2023-08-04
+137,970285,Account Type,Basic,2023-08-04
+138,150324,Ethnicity,White,2023-08-11
+139,150324,Date of Birth,6/13/2017,2023-08-11
+140,150324,Account Type,Gold,2023-08-11
+141,103488,Ethnicity,Other,2023-08-28
+142,103488,Date of Birth,9/26/1957,2023-08-28
+143,103488,Account Type,Basic,2023-08-28
+144,938419,Ethnicity,White,2023-08-17
+145,938419,Date of Birth,10/4/2003,2023-08-17
+146,938419,Account Type,Basic,2023-08-17
+147,201221,Ethnicity,Black,2023-08-06
+148,201221,Date of Birth,11/10/1941,2023-08-06
+149,201221,Account Type,Gold,2023-08-06
+150,488622,Ethnicity,Black,2023-08-31
+151,488622,Date of Birth,2/19/1945,2023-08-31
+152,488622,Account Type,Gold,2023-08-31
+153,402835,Ethnicity,Other,2023-08-27
+154,402835,Date of Birth,5/25/1941,2023-08-27
+155,402835,Account Type,Platinum,2023-08-27
+156,673773,Ethnicity,White,2023-08-26
+157,673773,Date of Birth,9/22/1951,2023-08-26
+158,673773,Account Type,Gold,2023-08-26
+159,853490,Ethnicity,Black,2023-08-21
+160,853490,Date of Birth,8/18/2011,2023-08-21
+161,853490,Account Type,Basic,2023-08-21
+162,239999,Ethnicity,Black,2023-08-10
+163,239999,Date of Birth,9/7/1988,2023-08-10
+164,239999,Account Type,Platinum,2023-08-10
+165,166958,Ethnicity,Black,2023-08-27
+166,166958,Date of Birth,5/2/1947,2023-08-27
+167,166958,Account Type,Platinum,2023-08-27
+168,222493,Ethnicity,Asian,2023-08-02
+169,222493,Date of Birth,12/6/1941,2023-08-02
+170,222493,Account Type,Platinum,2023-08-02
+171,101744,Ethnicity,Asian,2023-08-29
+172,101744,Date of Birth,1/21/1945,2023-08-29
+173,101744,Account Type,Basic,2023-08-29
+174,973817,Ethnicity,Black,2023-08-07
+175,973817,Date of Birth,7/26/1990,2023-08-07
+176,973817,Account Type,Gold,2023-08-07
+177,692114,Ethnicity,Asian,2023-08-22
+178,692114,Date of Birth,9/10/1973,2023-08-22
+179,692114,Account Type,Platinum,2023-08-22
+180,896280,Ethnicity,Other,2023-08-06
+181,896280,Date of Birth,9/24/1996,2023-08-06
+182,896280,Account Type,Basic,2023-08-06
+183,610368,Ethnicity,Other,2023-08-22
+184,610368,Date of Birth,7/15/1965,2023-08-22
+185,610368,Account Type,Basic,2023-08-22
+186,422091,Ethnicity,Asian,2023-08-20
+187,422091,Date of Birth,3/9/2001,2023-08-20
+188,422091,Account Type,Gold,2023-08-20
+189,162027,Ethnicity,Other,2023-08-08
+190,162027,Date of Birth,3/15/1992,2023-08-08
+191,162027,Account Type,Gold,2023-08-08
+192,273251,Ethnicity,Asian,2023-08-09
+193,273251,Date of Birth,3/23/1963,2023-08-09
+194,273251,Account Type,Basic,2023-08-09
+195,699074,Ethnicity,Other,2023-08-04
+196,699074,Date of Birth,8/13/1972,2023-08-04
+197,699074,Account Type,Basic,2023-08-04
+198,549892,Ethnicity,Asian,2023-08-30
+199,549892,Date of Birth,7/5/1959,2023-08-30
+200,549892,Account Type,Gold,2023-08-30
+201,472221,Ethnicity,White,2023-08-17
+202,472221,Date of Birth,10/12/1994,2023-08-17
+203,472221,Account Type,Platinum,2023-08-17
+204,312324,Ethnicity,White,2023-08-28
+205,312324,Date of Birth,8/13/2016,2023-08-28
+206,312324,Account Type,Gold,2023-08-28
+207,935038,Ethnicity,Black,2023-08-28
+208,935038,Date of Birth,1/24/2007,2023-08-28
+209,935038,Account Type,Platinum,2023-08-28
+210,883835,Ethnicity,Asian,2023-08-18
+211,883835,Date of Birth,11/18/1987,2023-08-18
+212,883835,Account Type,Gold,2023-08-18
+213,660049,Ethnicity,Asian,2023-08-02
+214,660049,Date of Birth,11/21/1984,2023-08-02
+215,660049,Account Type,Basic,2023-08-02
+216,202400,Ethnicity,White,2023-08-13
+217,202400,Date of Birth,6/28/1962,2023-08-13
+218,202400,Account Type,Basic,2023-08-13
+219,478868,Ethnicity,Other,2023-08-15
+220,478868,Date of Birth,10/27/1958,2023-08-15
+221,478868,Account Type,Gold,2023-08-15
+222,593067,Ethnicity,Black,2023-08-20
+223,593067,Date of Birth,10/1/2019,2023-08-20
+224,593067,Account Type,Gold,2023-08-20
+225,982613,Ethnicity,White,2023-08-23
+226,982613,Date of Birth,5/29/1949,2023-08-23
+227,982613,Account Type,Platinum,2023-08-23
+228,786474,Ethnicity,Other,2023-08-19
+229,786474,Date of Birth,4/5/1992,2023-08-19
+230,786474,Account Type,Gold,2023-08-19
+231,485343,Ethnicity,Other,2023-08-14
+232,485343,Date of Birth,6/21/1945,2023-08-14
+233,485343,Account Type,Gold,2023-08-14
+234,717582,Ethnicity,Other,2023-08-10
+235,717582,Date of Birth,8/5/1950,2023-08-10
+236,717582,Account Type,Basic,2023-08-10
+237,332370,Ethnicity,White,2023-08-21
+238,332370,Date of Birth,10/26/2002,2023-08-21
+239,332370,Account Type,Basic,2023-08-21
+240,146884,Ethnicity,Black,2023-08-24
+241,146884,Date of Birth,5/19/1961,2023-08-24
+242,146884,Account Type,Basic,2023-08-24
+243,698848,Ethnicity,White,2023-08-28
+244,698848,Date of Birth,5/8/1970,2023-08-28
+245,698848,Account Type,Platinum,2023-08-28
+246,720947,Ethnicity,Other,2023-08-19
+247,720947,Date of Birth,11/17/1997,2023-08-19
+248,720947,Account Type,Basic,2023-08-19
+249,168221,Ethnicity,Other,2023-08-17
+250,168221,Date of Birth,2/26/2003,2023-08-17
+251,168221,Account Type,Gold,2023-08-17
+252,900582,Ethnicity,Asian,2023-08-29
+253,900582,Date of Birth,12/9/1963,2023-08-29
+254,900582,Account Type,Gold,2023-08-29
+255,333873,Ethnicity,Black,2023-08-16
+256,333873,Date of Birth,8/31/1994,2023-08-16
+257,333873,Account Type,Platinum,2023-08-16
+0,319351,Ethnicity,Black,2023-09-01
+1,319351,Date of Birth,8/11/1961,2023-09-01
+2,319351,Account Type,Gold,2023-09-01
+3,228495,Ethnicity,Other,2023-09-08
+4,228495,Date of Birth,4/7/2006,2023-09-08
+5,228495,Account Type,Basic,2023-09-08
+6,163670,Ethnicity,White,2023-09-17
+7,163670,Date of Birth,9/7/1970,2023-09-17
+8,163670,Account Type,Platinum,2023-09-17
+9,801185,Ethnicity,Other,2023-09-29
+10,801185,Date of Birth,3/17/1975,2023-09-29
+11,801185,Account Type,Basic,2023-09-29
+12,625210,Ethnicity,Other,2023-09-30
+13,625210,Date of Birth,12/23/1995,2023-09-30
+14,625210,Account Type,Gold,2023-09-30
+15,615502,Ethnicity,Asian,2023-09-12
+16,615502,Date of Birth,10/1/1973,2023-09-12
+17,615502,Account Type,Basic,2023-09-12
+18,541236,Ethnicity,White,2023-09-12
+19,541236,Date of Birth,4/13/1964,2023-09-12
+20,541236,Account Type,Gold,2023-09-12
+21,861502,Ethnicity,Other,2023-09-24
+22,861502,Date of Birth,5/7/1981,2023-09-24
+23,861502,Account Type,Basic,2023-09-24
+24,159537,Ethnicity,Asian,2023-09-26
+25,159537,Date of Birth,7/30/2012,2023-09-26
+26,159537,Account Type,Gold,2023-09-26
+27,252873,Ethnicity,Other,2023-09-17
+28,252873,Date of Birth,2/17/1946,2023-09-17
+29,252873,Account Type,Basic,2023-09-17
+30,383716,Ethnicity,Asian,2023-09-27
+31,383716,Date of Birth,6/22/2000,2023-09-27
+32,383716,Account Type,Platinum,2023-09-27
+33,974075,Ethnicity,White,2023-09-06
+34,974075,Date of Birth,3/24/1982,2023-09-06
+35,974075,Account Type,Basic,2023-09-06
+36,960401,Ethnicity,Black,2023-09-09
+37,960401,Date of Birth,2/26/1991,2023-09-09
+38,960401,Account Type,Gold,2023-09-09
+39,725517,Ethnicity,White,2023-09-09
+40,725517,Date of Birth,11/29/1943,2023-09-09
+41,725517,Account Type,Basic,2023-09-09
+42,947646,Ethnicity,Asian,2023-09-05
+43,947646,Date of Birth,4/14/1968,2023-09-05
+44,947646,Account Type,Gold,2023-09-05
+45,169924,Ethnicity,White,2023-09-11
+46,169924,Date of Birth,10/20/1977,2023-09-11
+47,169924,Account Type,Platinum,2023-09-11
+48,188536,Ethnicity,Other,2023-09-09
+49,188536,Date of Birth,12/25/1946,2023-09-09
+50,188536,Account Type,Basic,2023-09-09
+51,512357,Ethnicity,White,2023-09-25
+52,512357,Date of Birth,11/19/2009,2023-09-25
+53,512357,Account Type,Basic,2023-09-25
+54,892110,Ethnicity,Asian,2023-09-27
+55,892110,Date of Birth,5/27/1955,2023-09-27
+56,892110,Account Type,Gold,2023-09-27
+57,350952,Ethnicity,Black,2023-09-10
+58,350952,Date of Birth,5/14/1997,2023-09-10
+59,350952,Account Type,Basic,2023-09-10
+60,546446,Ethnicity,White,2023-09-23
+61,546446,Date of Birth,3/31/1973,2023-09-23
+62,546446,Account Type,Basic,2023-09-23
+63,274486,Ethnicity,White,2023-09-11
+64,274486,Date of Birth,4/11/2010,2023-09-11
+65,274486,Account Type,Gold,2023-09-11
+66,889441,Ethnicity,Asian,2023-09-02
+67,889441,Date of Birth,9/23/2000,2023-09-02
+68,889441,Account Type,Basic,2023-09-02
+69,222775,Ethnicity,White,2023-09-30
+70,222775,Date of Birth,11/30/1960,2023-09-30
+71,222775,Account Type,Basic,2023-09-30
+72,113596,Ethnicity,Black,2023-09-30
+73,113596,Date of Birth,11/19/2005,2023-09-30
+74,113596,Account Type,Basic,2023-09-30
+75,391064,Ethnicity,Other,2023-09-23
+76,391064,Date of Birth,9/7/1959,2023-09-23
+77,391064,Account Type,Gold,2023-09-23
+78,662004,Ethnicity,Black,2023-09-03
+79,662004,Date of Birth,4/3/2014,2023-09-03
+80,662004,Account Type,Platinum,2023-09-03
+81,339282,Ethnicity,Other,2023-09-16
+82,339282,Date of Birth,10/31/1968,2023-09-16
+83,339282,Account Type,Basic,2023-09-16
+84,382180,Ethnicity,Other,2023-09-16
+85,382180,Date of Birth,12/14/1975,2023-09-16
+86,382180,Account Type,Platinum,2023-09-16
+87,272178,Ethnicity,White,2023-09-28
+88,272178,Date of Birth,3/3/1985,2023-09-28
+89,272178,Account Type,Gold,2023-09-28
+90,861565,Ethnicity,Black,2023-09-30
+91,861565,Date of Birth,5/19/1996,2023-09-30
+92,861565,Account Type,Basic,2023-09-30
+93,901811,Ethnicity,White,2023-09-18
+94,901811,Date of Birth,8/28/1968,2023-09-18
+95,901811,Account Type,Basic,2023-09-18
+96,451570,Ethnicity,Other,2023-09-04
+97,451570,Date of Birth,4/21/1974,2023-09-04
+98,451570,Account Type,Gold,2023-09-04
+99,497693,Ethnicity,Other,2023-09-19
+100,497693,Date of Birth,3/14/1970,2023-09-19
+101,497693,Account Type,Platinum,2023-09-19
+102,569494,Ethnicity,Black,2023-09-01
+103,569494,Date of Birth,8/30/1976,2023-09-01
+104,569494,Account Type,Gold,2023-09-01
+105,719232,Ethnicity,White,2023-09-17
+106,719232,Date of Birth,3/6/1983,2023-09-17
+107,719232,Account Type,Platinum,2023-09-17
+108,158323,Ethnicity,White,2023-09-24
+109,158323,Date of Birth,5/7/1973,2023-09-24
+110,158323,Account Type,Platinum,2023-09-24
+111,931023,Ethnicity,Black,2023-09-07
+112,931023,Date of Birth,3/5/1985,2023-09-07
+113,931023,Account Type,Platinum,2023-09-07
+114,567696,Ethnicity,Black,2023-09-09
+115,567696,Date of Birth,9/17/1943,2023-09-09
+116,567696,Account Type,Gold,2023-09-09
+117,356495,Ethnicity,White,2023-09-20
+118,356495,Date of Birth,2/2/1981,2023-09-20
+119,356495,Account Type,Platinum,2023-09-20
+120,314876,Ethnicity,Asian,2023-09-29
+121,314876,Date of Birth,2/13/2013,2023-09-29
+122,314876,Account Type,Basic,2023-09-29
+123,148755,Ethnicity,White,2023-09-17
+124,148755,Date of Birth,10/21/1970,2023-09-17
+125,148755,Account Type,Platinum,2023-09-17
+126,207622,Ethnicity,White,2023-09-22
+127,207622,Date of Birth,12/29/1959,2023-09-22
+128,207622,Account Type,Platinum,2023-09-22
+129,743567,Ethnicity,Other,2023-09-12
+130,743567,Date of Birth,9/19/1971,2023-09-12
+131,743567,Account Type,Platinum,2023-09-12
+132,909727,Ethnicity,Asian,2023-09-26
+133,909727,Date of Birth,1/20/2011,2023-09-26
+134,909727,Account Type,Gold,2023-09-26
+135,921939,Ethnicity,Other,2023-09-29
+136,921939,Date of Birth,2/5/1963,2023-09-29
+137,921939,Account Type,Gold,2023-09-29
+138,660162,Ethnicity,White,2023-09-16
+139,660162,Date of Birth,12/2/2001,2023-09-16
+140,660162,Account Type,Platinum,2023-09-16
+141,212028,Ethnicity,White,2023-09-08
+142,212028,Date of Birth,2/19/2008,2023-09-08
+143,212028,Account Type,Basic,2023-09-08
+144,314233,Ethnicity,Asian,2023-09-09
+145,314233,Date of Birth,12/16/2018,2023-09-09
+146,314233,Account Type,Platinum,2023-09-09
+147,385540,Ethnicity,White,2023-09-30
+148,385540,Date of Birth,2/1/1943,2023-09-30
+149,385540,Account Type,Gold,2023-09-30
+150,528074,Ethnicity,Other,2023-09-13
+151,528074,Date of Birth,5/26/2013,2023-09-13
+152,528074,Account Type,Gold,2023-09-13
+153,598899,Ethnicity,Black,2023-09-19
+154,598899,Date of Birth,1/10/1999,2023-09-19
+155,598899,Account Type,Basic,2023-09-19
+156,740085,Ethnicity,Other,2023-09-11
+157,740085,Date of Birth,10/8/2002,2023-09-11
+158,740085,Account Type,Platinum,2023-09-11
+159,325886,Ethnicity,Asian,2023-09-14
+160,325886,Date of Birth,5/19/1941,2023-09-14
+161,325886,Account Type,Gold,2023-09-14
+162,368497,Ethnicity,Other,2023-09-28
+163,368497,Date of Birth,7/29/1991,2023-09-28
+164,368497,Account Type,Basic,2023-09-28
+165,145716,Ethnicity,Asian,2023-09-05
+166,145716,Date of Birth,3/20/1995,2023-09-05
+167,145716,Account Type,Gold,2023-09-05
+168,652834,Ethnicity,Black,2023-09-10
+169,652834,Date of Birth,11/19/1982,2023-09-10
+170,652834,Account Type,Gold,2023-09-10
+171,611755,Ethnicity,Other,2023-09-28
+172,611755,Date of Birth,2/11/1949,2023-09-28
+173,611755,Account Type,Platinum,2023-09-28
+174,817709,Ethnicity,Other,2023-09-12
+175,817709,Date of Birth,11/3/1988,2023-09-12
+176,817709,Account Type,Platinum,2023-09-12
+177,166124,Ethnicity,Black,2023-09-08
+178,166124,Date of Birth,5/31/1966,2023-09-08
+179,166124,Account Type,Gold,2023-09-08
+180,939708,Ethnicity,White,2023-09-30
+181,939708,Date of Birth,4/1/1971,2023-09-30
+182,939708,Account Type,Basic,2023-09-30
+183,986393,Ethnicity,Black,2023-09-02
+184,986393,Date of Birth,12/14/2003,2023-09-02
+185,986393,Account Type,Basic,2023-09-02
+186,228727,Ethnicity,Other,2023-09-06
+187,228727,Date of Birth,3/29/1964,2023-09-06
+188,228727,Account Type,Platinum,2023-09-06
+189,808972,Ethnicity,Other,2023-09-05
+190,808972,Date of Birth,2/19/2006,2023-09-05
+191,808972,Account Type,Platinum,2023-09-05
+192,997703,Ethnicity,Other,2023-09-19
+193,997703,Date of Birth,1/7/1998,2023-09-19
+194,997703,Account Type,Platinum,2023-09-19
+195,534626,Ethnicity,White,2023-09-05
+196,534626,Date of Birth,6/25/1944,2023-09-05
+197,534626,Account Type,Platinum,2023-09-05
+198,701002,Ethnicity,White,2023-09-25
+199,701002,Date of Birth,3/2/1989,2023-09-25
+200,701002,Account Type,Gold,2023-09-25
+201,232704,Ethnicity,Black,2023-09-17
+202,232704,Date of Birth,10/20/1956,2023-09-17
+203,232704,Account Type,Gold,2023-09-17
+204,661243,Ethnicity,Other,2023-09-17
+205,661243,Date of Birth,11/17/2011,2023-09-17
+206,661243,Account Type,Gold,2023-09-17
+207,445532,Ethnicity,Black,2023-09-13
+208,445532,Date of Birth,10/8/1972,2023-09-13
+209,445532,Account Type,Basic,2023-09-13
+210,307727,Ethnicity,Other,2023-09-20
+211,307727,Date of Birth,1/6/1972,2023-09-20
+212,307727,Account Type,Basic,2023-09-20
+213,319379,Ethnicity,Other,2023-09-15
+214,319379,Date of Birth,5/6/1974,2023-09-15
+215,319379,Account Type,Gold,2023-09-15
+216,796180,Ethnicity,Other,2023-09-16
+217,796180,Date of Birth,3/10/1944,2023-09-16
+218,796180,Account Type,Basic,2023-09-16
+219,720200,Ethnicity,Other,2023-09-21
+220,720200,Date of Birth,12/24/1996,2023-09-21
+221,720200,Account Type,Basic,2023-09-21
+222,827538,Ethnicity,White,2023-09-02
+223,827538,Date of Birth,12/21/1982,2023-09-02
+224,827538,Account Type,Gold,2023-09-02
+225,734567,Ethnicity,Black,2023-09-06
+226,734567,Date of Birth,1/22/1976,2023-09-06
+227,734567,Account Type,Basic,2023-09-06
+228,152219,Ethnicity,Black,2023-09-03
+229,152219,Date of Birth,11/18/1968,2023-09-03
+230,152219,Account Type,Basic,2023-09-03
+231,159759,Ethnicity,Black,2023-09-29
+232,159759,Date of Birth,4/29/1993,2023-09-29
+233,159759,Account Type,Gold,2023-09-29
+234,155384,Ethnicity,Asian,2023-09-09
+235,155384,Date of Birth,7/4/1992,2023-09-09
+236,155384,Account Type,Platinum,2023-09-09
+237,428406,Ethnicity,Asian,2023-09-02
+238,428406,Date of Birth,8/8/1972,2023-09-02
+239,428406,Account Type,Basic,2023-09-02
+240,442375,Ethnicity,White,2023-09-16
+241,442375,Date of Birth,6/15/1985,2023-09-16
+242,442375,Account Type,Platinum,2023-09-16
+243,826580,Ethnicity,Black,2023-09-28
+244,826580,Date of Birth,9/6/1975,2023-09-28
+245,826580,Account Type,Gold,2023-09-28
+246,375840,Ethnicity,Asian,2023-09-17
+247,375840,Date of Birth,3/8/1963,2023-09-17
+248,375840,Account Type,Gold,2023-09-17
+249,213378,Ethnicity,Black,2023-09-15
+250,213378,Date of Birth,7/3/1987,2023-09-15
+251,213378,Account Type,Basic,2023-09-15
+0,182172,Ethnicity,Other,2023-10-12
+1,182172,Date of Birth,11/11/1940,2023-10-12
+2,182172,Account Type,Basic,2023-10-12
+3,293881,Ethnicity,Black,2023-10-29
+4,293881,Date of Birth,3/10/1963,2023-10-29
+5,293881,Account Type,Basic,2023-10-29
+6,900970,Ethnicity,Asian,2023-10-07
+7,900970,Date of Birth,2/27/1985,2023-10-07
+8,900970,Account Type,Basic,2023-10-07
+9,423343,Ethnicity,White,2023-10-27
+10,423343,Date of Birth,7/25/1947,2023-10-27
+11,423343,Account Type,Basic,2023-10-27
+12,562722,Ethnicity,Asian,2023-10-25
+13,562722,Date of Birth,8/9/2007,2023-10-25
+14,562722,Account Type,Platinum,2023-10-25
+15,423637,Ethnicity,Other,2023-10-30
+16,423637,Date of Birth,1/30/1941,2023-10-30
+17,423637,Account Type,Basic,2023-10-30
+18,937520,Ethnicity,Other,2023-10-30
+19,937520,Date of Birth,2/8/1964,2023-10-30
+20,937520,Account Type,Gold,2023-10-30
+21,577581,Ethnicity,White,2023-10-22
+22,577581,Date of Birth,6/22/1960,2023-10-22
+23,577581,Account Type,Platinum,2023-10-22
+24,889600,Ethnicity,Asian,2023-10-07
+25,889600,Date of Birth,6/2/1946,2023-10-07
+26,889600,Account Type,Gold,2023-10-07
+27,229517,Ethnicity,Asian,2023-10-20
+28,229517,Date of Birth,5/26/1969,2023-10-20
+29,229517,Account Type,Platinum,2023-10-20
+30,189309,Ethnicity,Other,2023-10-24
+31,189309,Date of Birth,1/29/1985,2023-10-24
+32,189309,Account Type,Platinum,2023-10-24
+33,511264,Ethnicity,Other,2023-10-27
+34,511264,Date of Birth,7/7/1957,2023-10-27
+35,511264,Account Type,Platinum,2023-10-27
+36,543527,Ethnicity,Other,2023-10-12
+37,543527,Date of Birth,2/23/2013,2023-10-12
+38,543527,Account Type,Gold,2023-10-12
+39,491387,Ethnicity,Asian,2023-10-28
+40,491387,Date of Birth,11/4/2001,2023-10-28
+41,491387,Account Type,Platinum,2023-10-28
+42,940125,Ethnicity,Black,2023-10-02
+43,940125,Date of Birth,9/22/1949,2023-10-02
+44,940125,Account Type,Gold,2023-10-02
+45,971397,Ethnicity,Other,2023-10-20
+46,971397,Date of Birth,10/21/1970,2023-10-20
+47,971397,Account Type,Platinum,2023-10-20
+48,703596,Ethnicity,White,2023-10-26
+49,703596,Date of Birth,6/6/1948,2023-10-26
+50,703596,Account Type,Platinum,2023-10-26
+51,172511,Ethnicity,Other,2023-10-18
+52,172511,Date of Birth,7/11/1945,2023-10-18
+53,172511,Account Type,Gold,2023-10-18
+54,693419,Ethnicity,Black,2023-10-26
+55,693419,Date of Birth,2/27/1950,2023-10-26
+56,693419,Account Type,Gold,2023-10-26
+57,759289,Ethnicity,Asian,2023-10-30
+58,759289,Date of Birth,8/9/1965,2023-10-30
+59,759289,Account Type,Platinum,2023-10-30
+60,897320,Ethnicity,White,2023-10-31
+61,897320,Date of Birth,4/13/1978,2023-10-31
+62,897320,Account Type,Basic,2023-10-31
+63,762315,Ethnicity,White,2023-10-22
+64,762315,Date of Birth,1/26/1940,2023-10-22
+65,762315,Account Type,Gold,2023-10-22
+66,802490,Ethnicity,Other,2023-10-27
+67,802490,Date of Birth,5/13/1970,2023-10-27
+68,802490,Account Type,Basic,2023-10-27
+69,701314,Ethnicity,White,2023-10-24
+70,701314,Date of Birth,3/27/1981,2023-10-24
+71,701314,Account Type,Platinum,2023-10-24
+72,371271,Ethnicity,Other,2023-10-25
+73,371271,Date of Birth,8/28/2001,2023-10-25
+74,371271,Account Type,Basic,2023-10-25
+75,803346,Ethnicity,Other,2023-10-08
+76,803346,Date of Birth,9/17/2015,2023-10-08
+77,803346,Account Type,Gold,2023-10-08
+78,677472,Ethnicity,Black,2023-10-16
+79,677472,Date of Birth,1/18/1996,2023-10-16
+80,677472,Account Type,Gold,2023-10-16
+81,259388,Ethnicity,Black,2023-10-15
+82,259388,Date of Birth,8/29/1984,2023-10-15
+83,259388,Account Type,Platinum,2023-10-15
+84,435013,Ethnicity,Black,2023-10-18
+85,435013,Date of Birth,9/1/1998,2023-10-18
+86,435013,Account Type,Basic,2023-10-18
+87,832494,Ethnicity,White,2023-10-16
+88,832494,Date of Birth,6/23/1964,2023-10-16
+89,832494,Account Type,Gold,2023-10-16
+90,790504,Ethnicity,White,2023-10-04
+91,790504,Date of Birth,6/13/1955,2023-10-04
+92,790504,Account Type,Platinum,2023-10-04
+93,691430,Ethnicity,Black,2023-10-11
+94,691430,Date of Birth,4/25/1988,2023-10-11
+95,691430,Account Type,Platinum,2023-10-11
+96,917106,Ethnicity,Asian,2023-10-31
+97,917106,Date of Birth,10/16/1942,2023-10-31
+98,917106,Account Type,Platinum,2023-10-31
+99,762634,Ethnicity,White,2023-10-19
+100,762634,Date of Birth,1/14/1980,2023-10-19
+101,762634,Account Type,Platinum,2023-10-19
+102,125311,Ethnicity,Black,2023-10-01
+103,125311,Date of Birth,5/1/2008,2023-10-01
+104,125311,Account Type,Basic,2023-10-01
+105,182986,Ethnicity,Other,2023-10-23
+106,182986,Date of Birth,1/1/2006,2023-10-23
+107,182986,Account Type,Basic,2023-10-23
+108,346957,Ethnicity,Asian,2023-10-14
+109,346957,Date of Birth,12/29/1990,2023-10-14
+110,346957,Account Type,Platinum,2023-10-14
+111,942724,Ethnicity,Black,2023-10-09
+112,942724,Date of Birth,5/23/1979,2023-10-09
+113,942724,Account Type,Platinum,2023-10-09
+114,503279,Ethnicity,White,2023-10-17
+115,503279,Date of Birth,4/13/1967,2023-10-17
+116,503279,Account Type,Gold,2023-10-17
+117,217539,Ethnicity,White,2023-10-29
+118,217539,Date of Birth,7/3/1954,2023-10-29
+119,217539,Account Type,Basic,2023-10-29
+120,701647,Ethnicity,Other,2023-10-22
+121,701647,Date of Birth,4/27/1954,2023-10-22
+122,701647,Account Type,Platinum,2023-10-22
+123,415762,Ethnicity,Black,2023-10-20
+124,415762,Date of Birth,11/3/1949,2023-10-20
+125,415762,Account Type,Basic,2023-10-20
+126,769158,Ethnicity,Asian,2023-10-12
+127,769158,Date of Birth,3/9/1996,2023-10-12
+128,769158,Account Type,Basic,2023-10-12
+129,194394,Ethnicity,Asian,2023-10-16
+130,194394,Date of Birth,6/18/1991,2023-10-16
+131,194394,Account Type,Gold,2023-10-16
+132,202437,Ethnicity,Other,2023-10-29
+133,202437,Date of Birth,12/30/1976,2023-10-29
+134,202437,Account Type,Platinum,2023-10-29
+135,494925,Ethnicity,Asian,2023-10-17
+136,494925,Date of Birth,11/29/1957,2023-10-17
+137,494925,Account Type,Platinum,2023-10-17
+138,341542,Ethnicity,Black,2023-10-03
+139,341542,Date of Birth,12/26/1984,2023-10-03
+140,341542,Account Type,Gold,2023-10-03
+141,559179,Ethnicity,Other,2023-10-22
+142,559179,Date of Birth,2/18/1979,2023-10-22
+143,559179,Account Type,Basic,2023-10-22
+144,625189,Ethnicity,Other,2023-10-24
+145,625189,Date of Birth,7/19/1985,2023-10-24
+146,625189,Account Type,Gold,2023-10-24
+147,933326,Ethnicity,Other,2023-10-05
+148,933326,Date of Birth,10/6/2010,2023-10-05
+149,933326,Account Type,Gold,2023-10-05
+150,507932,Ethnicity,Asian,2023-10-29
+151,507932,Date of Birth,8/15/2005,2023-10-29
+152,507932,Account Type,Platinum,2023-10-29
+153,644707,Ethnicity,White,2023-10-03
+154,644707,Date of Birth,7/5/1995,2023-10-03
+155,644707,Account Type,Platinum,2023-10-03
+156,485637,Ethnicity,White,2023-10-09
+157,485637,Date of Birth,10/20/2001,2023-10-09
+158,485637,Account Type,Basic,2023-10-09
+159,142674,Ethnicity,Other,2023-10-27
+160,142674,Date of Birth,9/2/1987,2023-10-27
+161,142674,Account Type,Basic,2023-10-27
+162,540772,Ethnicity,Black,2023-10-01
+163,540772,Date of Birth,5/15/1957,2023-10-01
+164,540772,Account Type,Gold,2023-10-01
+165,963545,Ethnicity,White,2023-10-15
+166,963545,Date of Birth,12/19/2001,2023-10-15
+167,963545,Account Type,Basic,2023-10-15
+168,919938,Ethnicity,White,2023-10-31
+169,919938,Date of Birth,12/6/1995,2023-10-31
+170,919938,Account Type,Gold,2023-10-31
+171,167545,Ethnicity,White,2023-10-23
+172,167545,Date of Birth,3/15/1987,2023-10-23
+173,167545,Account Type,Platinum,2023-10-23
+174,439709,Ethnicity,Other,2023-10-05
+175,439709,Date of Birth,8/21/2009,2023-10-05
+176,439709,Account Type,Basic,2023-10-05
+177,158058,Ethnicity,Other,2023-10-28
+178,158058,Date of Birth,2/7/1955,2023-10-28
+179,158058,Account Type,Platinum,2023-10-28
+180,165263,Ethnicity,Other,2023-10-26
+181,165263,Date of Birth,10/15/1970,2023-10-26
+182,165263,Account Type,Platinum,2023-10-26
+183,234964,Ethnicity,Other,2023-10-10
+184,234964,Date of Birth,9/14/1962,2023-10-10
+185,234964,Account Type,Platinum,2023-10-10
+186,804299,Ethnicity,Other,2023-10-06
+187,804299,Date of Birth,11/4/1957,2023-10-06
+188,804299,Account Type,Gold,2023-10-06
+189,848472,Ethnicity,Other,2023-10-18
+190,848472,Date of Birth,10/20/2009,2023-10-18
+191,848472,Account Type,Gold,2023-10-18
+192,175875,Ethnicity,Asian,2023-10-10
+193,175875,Date of Birth,11/19/1970,2023-10-10
+194,175875,Account Type,Gold,2023-10-10
+195,673020,Ethnicity,Other,2023-10-04
+196,673020,Date of Birth,11/30/1979,2023-10-04
+197,673020,Account Type,Platinum,2023-10-04
+198,213994,Ethnicity,White,2023-10-29
+199,213994,Date of Birth,4/16/1961,2023-10-29
+200,213994,Account Type,Gold,2023-10-29
+201,851016,Ethnicity,White,2023-10-18
+202,851016,Date of Birth,1/18/2010,2023-10-18
+203,851016,Account Type,Platinum,2023-10-18
+204,825555,Ethnicity,Asian,2023-10-29
+205,825555,Date of Birth,11/10/2019,2023-10-29
+206,825555,Account Type,Platinum,2023-10-29
+207,388013,Ethnicity,Black,2023-10-27
+208,388013,Date of Birth,7/13/2018,2023-10-27
+209,388013,Account Type,Gold,2023-10-27
+210,285733,Ethnicity,Black,2023-10-16
+211,285733,Date of Birth,5/19/2000,2023-10-16
+212,285733,Account Type,Gold,2023-10-16
+213,352431,Ethnicity,Asian,2023-10-31
+214,352431,Date of Birth,12/2/1970,2023-10-31
+215,352431,Account Type,Basic,2023-10-31
+216,918029,Ethnicity,Black,2023-10-28
+217,918029,Date of Birth,11/21/1969,2023-10-28
+218,918029,Account Type,Gold,2023-10-28
+219,682556,Ethnicity,Black,2023-10-07
+220,682556,Date of Birth,9/30/1966,2023-10-07
+221,682556,Account Type,Gold,2023-10-07
+222,405774,Ethnicity,Asian,2023-10-05
+223,405774,Date of Birth,8/11/1993,2023-10-05
+224,405774,Account Type,Gold,2023-10-05
+225,920547,Ethnicity,Asian,2023-10-29
+226,920547,Date of Birth,12/28/1943,2023-10-29
+227,920547,Account Type,Basic,2023-10-29
+228,973755,Ethnicity,Black,2023-10-10
+229,973755,Date of Birth,1/12/1998,2023-10-10
+230,973755,Account Type,Platinum,2023-10-10
+231,261886,Ethnicity,Asian,2023-10-13
+232,261886,Date of Birth,5/23/1974,2023-10-13
+233,261886,Account Type,Basic,2023-10-13
+234,551306,Ethnicity,White,2023-10-03
+235,551306,Date of Birth,2/6/2008,2023-10-03
+236,551306,Account Type,Gold,2023-10-03
+237,326497,Ethnicity,Black,2023-10-11
+238,326497,Date of Birth,4/24/2013,2023-10-11
+239,326497,Account Type,Basic,2023-10-11
+240,639158,Ethnicity,White,2023-10-28
+241,639158,Date of Birth,9/29/1989,2023-10-28
+242,639158,Account Type,Platinum,2023-10-28
+243,401721,Ethnicity,Other,2023-10-08
+244,401721,Date of Birth,12/15/1955,2023-10-08
+245,401721,Account Type,Platinum,2023-10-08
+246,251536,Ethnicity,Asian,2023-10-06
+247,251536,Date of Birth,5/14/1957,2023-10-06
+248,251536,Account Type,Basic,2023-10-06
+249,238622,Ethnicity,Asian,2023-10-20
+250,238622,Date of Birth,10/27/1995,2023-10-20
+251,238622,Account Type,Gold,2023-10-20
+252,293767,Ethnicity,Asian,2023-10-07
+253,293767,Date of Birth,1/16/2018,2023-10-07
+254,293767,Account Type,Platinum,2023-10-07
+255,206041,Ethnicity,White,2023-10-13
+256,206041,Date of Birth,10/18/2010,2023-10-13
+257,206041,Account Type,Gold,2023-10-13
+258,848661,Ethnicity,Black,2023-10-08
+259,848661,Date of Birth,12/2/1957,2023-10-08
+260,848661,Account Type,Platinum,2023-10-08
+261,119971,Ethnicity,Asian,2023-10-01
+262,119971,Date of Birth,5/21/1963,2023-10-01
+263,119971,Account Type,Basic,2023-10-01
+264,593905,Ethnicity,Black,2023-10-27
+265,593905,Date of Birth,12/5/1961,2023-10-27
+266,593905,Account Type,Basic,2023-10-27
+267,897163,Ethnicity,Other,2023-10-11
+268,897163,Date of Birth,10/5/1986,2023-10-11
+269,897163,Account Type,Platinum,2023-10-11
+270,754452,Ethnicity,Other,2023-10-04
+271,754452,Date of Birth,11/13/1955,2023-10-04
+272,754452,Account Type,Basic,2023-10-04
+273,111501,Ethnicity,Black,2023-10-12
+274,111501,Date of Birth,5/3/1999,2023-10-12
+275,111501,Account Type,Gold,2023-10-12
+0,824746,Ethnicity,Black,2023-11-23
+1,824746,Date of Birth,11/29/1984,2023-11-23
+2,824746,Account Type,Platinum,2023-11-23
+3,190312,Ethnicity,White,2023-11-03
+4,190312,Date of Birth,1/21/2014,2023-11-03
+5,190312,Account Type,Gold,2023-11-03
+6,713378,Ethnicity,Black,2023-11-13
+7,713378,Date of Birth,9/28/1977,2023-11-13
+8,713378,Account Type,Basic,2023-11-13
+9,939786,Ethnicity,Other,2023-11-25
+10,939786,Date of Birth,6/16/1997,2023-11-25
+11,939786,Account Type,Gold,2023-11-25
+12,784400,Ethnicity,Asian,2023-11-26
+13,784400,Date of Birth,12/10/2002,2023-11-26
+14,784400,Account Type,Gold,2023-11-26
+15,271529,Ethnicity,Asian,2023-11-21
+16,271529,Date of Birth,7/10/2012,2023-11-21
+17,271529,Account Type,Platinum,2023-11-21
+18,874417,Ethnicity,Other,2023-11-09
+19,874417,Date of Birth,8/12/1985,2023-11-09
+20,874417,Account Type,Platinum,2023-11-09
+21,221238,Ethnicity,Other,2023-11-01
+22,221238,Date of Birth,12/28/1940,2023-11-01
+23,221238,Account Type,Platinum,2023-11-01
+24,785851,Ethnicity,Other,2023-11-08
+25,785851,Date of Birth,6/12/1981,2023-11-08
+26,785851,Account Type,Basic,2023-11-08
+27,753388,Ethnicity,Asian,2023-11-06
+28,753388,Date of Birth,5/16/1952,2023-11-06
+29,753388,Account Type,Platinum,2023-11-06
+30,494788,Ethnicity,Black,2023-11-11
+31,494788,Date of Birth,5/5/1968,2023-11-11
+32,494788,Account Type,Gold,2023-11-11
+33,959681,Ethnicity,White,2023-11-04
+34,959681,Date of Birth,11/30/1945,2023-11-04
+35,959681,Account Type,Basic,2023-11-04
+36,748491,Ethnicity,Asian,2023-11-20
+37,748491,Date of Birth,12/7/1957,2023-11-20
+38,748491,Account Type,Platinum,2023-11-20
+39,168605,Ethnicity,Black,2023-11-14
+40,168605,Date of Birth,9/26/1983,2023-11-14
+41,168605,Account Type,Basic,2023-11-14
+42,112161,Ethnicity,Asian,2023-11-13
+43,112161,Date of Birth,6/27/1967,2023-11-13
+44,112161,Account Type,Platinum,2023-11-13
+45,918911,Ethnicity,Black,2023-11-04
+46,918911,Date of Birth,3/5/1954,2023-11-04
+47,918911,Account Type,Gold,2023-11-04
+48,664737,Ethnicity,Black,2023-11-19
+49,664737,Date of Birth,7/7/2000,2023-11-19
+50,664737,Account Type,Gold,2023-11-19
+51,531040,Ethnicity,White,2023-11-03
+52,531040,Date of Birth,7/17/1978,2023-11-03
+53,531040,Account Type,Gold,2023-11-03
+54,141629,Ethnicity,Other,2023-11-04
+55,141629,Date of Birth,3/9/1957,2023-11-04
+56,141629,Account Type,Basic,2023-11-04
+57,601677,Ethnicity,Other,2023-11-05
+58,601677,Date of Birth,1/9/1964,2023-11-05
+59,601677,Account Type,Basic,2023-11-05
+60,761978,Ethnicity,Asian,2023-11-17
+61,761978,Date of Birth,11/4/1991,2023-11-17
+62,761978,Account Type,Gold,2023-11-17
+63,235138,Ethnicity,Asian,2023-11-15
+64,235138,Date of Birth,4/23/1967,2023-11-15
+65,235138,Account Type,Platinum,2023-11-15
+66,949651,Ethnicity,Other,2023-11-25
+67,949651,Date of Birth,9/13/1940,2023-11-25
+68,949651,Account Type,Platinum,2023-11-25
+69,689247,Ethnicity,Black,2023-11-04
+70,689247,Date of Birth,11/16/1985,2023-11-04
+71,689247,Account Type,Gold,2023-11-04
+72,879093,Ethnicity,Black,2023-11-06
+73,879093,Date of Birth,9/21/1968,2023-11-06
+74,879093,Account Type,Gold,2023-11-06
+75,669652,Ethnicity,Other,2023-11-28
+76,669652,Date of Birth,5/28/2009,2023-11-28
+77,669652,Account Type,Platinum,2023-11-28
+78,381269,Ethnicity,Black,2023-11-01
+79,381269,Date of Birth,7/15/1983,2023-11-01
+80,381269,Account Type,Gold,2023-11-01
+81,504043,Ethnicity,Asian,2023-11-05
+82,504043,Date of Birth,4/1/1986,2023-11-05
+83,504043,Account Type,Basic,2023-11-05
+84,312962,Ethnicity,White,2023-11-01
+85,312962,Date of Birth,7/12/1978,2023-11-01
+86,312962,Account Type,Gold,2023-11-01
+87,943346,Ethnicity,Other,2023-11-30
+88,943346,Date of Birth,8/27/1957,2023-11-30
+89,943346,Account Type,Basic,2023-11-30
+90,950849,Ethnicity,Black,2023-11-08
+91,950849,Date of Birth,7/30/1990,2023-11-08
+92,950849,Account Type,Gold,2023-11-08
+93,271596,Ethnicity,White,2023-11-30
+94,271596,Date of Birth,9/10/2000,2023-11-30
+95,271596,Account Type,Gold,2023-11-30
+96,410607,Ethnicity,Asian,2023-11-03
+97,410607,Date of Birth,3/8/1958,2023-11-03
+98,410607,Account Type,Gold,2023-11-03
+99,720946,Ethnicity,White,2023-11-26
+100,720946,Date of Birth,6/7/1984,2023-11-26
+101,720946,Account Type,Basic,2023-11-26
+102,224213,Ethnicity,Other,2023-11-27
+103,224213,Date of Birth,1/17/1992,2023-11-27
+104,224213,Account Type,Platinum,2023-11-27
+105,335173,Ethnicity,White,2023-11-11
+106,335173,Date of Birth,1/28/1942,2023-11-11
+107,335173,Account Type,Gold,2023-11-11
+108,963473,Ethnicity,White,2023-11-13
+109,963473,Date of Birth,10/1/2014,2023-11-13
+110,963473,Account Type,Platinum,2023-11-13
+111,983346,Ethnicity,Asian,2023-11-24
+112,983346,Date of Birth,8/19/1951,2023-11-24
+113,983346,Account Type,Basic,2023-11-24
+114,129983,Ethnicity,Asian,2023-11-07
+115,129983,Date of Birth,4/12/2001,2023-11-07
+116,129983,Account Type,Basic,2023-11-07
+117,697830,Ethnicity,White,2023-11-21
+118,697830,Date of Birth,11/14/1948,2023-11-21
+119,697830,Account Type,Gold,2023-11-21
+120,774922,Ethnicity,Black,2023-11-19
+121,774922,Date of Birth,8/14/2011,2023-11-19
+122,774922,Account Type,Gold,2023-11-19
+123,694902,Ethnicity,Asian,2023-11-21
+124,694902,Date of Birth,3/30/2001,2023-11-21
+125,694902,Account Type,Basic,2023-11-21
+126,595254,Ethnicity,Other,2023-11-06
+127,595254,Date of Birth,5/6/1942,2023-11-06
+128,595254,Account Type,Platinum,2023-11-06
+129,260096,Ethnicity,Black,2023-11-20
+130,260096,Date of Birth,1/10/1955,2023-11-20
+131,260096,Account Type,Basic,2023-11-20
+132,512023,Ethnicity,Black,2023-11-16
+133,512023,Date of Birth,4/5/1957,2023-11-16
+134,512023,Account Type,Gold,2023-11-16
+135,952333,Ethnicity,Other,2023-11-15
+136,952333,Date of Birth,3/5/2000,2023-11-15
+137,952333,Account Type,Gold,2023-11-15
+138,848904,Ethnicity,White,2023-11-14
+139,848904,Date of Birth,1/6/1962,2023-11-14
+140,848904,Account Type,Basic,2023-11-14
+141,279177,Ethnicity,White,2023-11-07
+142,279177,Date of Birth,2/26/1967,2023-11-07
+143,279177,Account Type,Basic,2023-11-07
+144,755822,Ethnicity,Black,2023-11-19
+145,755822,Date of Birth,7/4/1942,2023-11-19
+146,755822,Account Type,Gold,2023-11-19
+147,838906,Ethnicity,White,2023-11-26
+148,838906,Date of Birth,6/1/1976,2023-11-26
+149,838906,Account Type,Gold,2023-11-26
+150,701108,Ethnicity,White,2023-11-21
+151,701108,Date of Birth,10/29/1975,2023-11-21
+152,701108,Account Type,Basic,2023-11-21
+153,892338,Ethnicity,White,2023-11-05
+154,892338,Date of Birth,6/3/1961,2023-11-05
+155,892338,Account Type,Platinum,2023-11-05
+156,450210,Ethnicity,Other,2023-11-24
+157,450210,Date of Birth,8/24/2018,2023-11-24
+158,450210,Account Type,Basic,2023-11-24
+159,140062,Ethnicity,Black,2023-11-22
+160,140062,Date of Birth,6/7/2012,2023-11-22
+161,140062,Account Type,Platinum,2023-11-22
+162,176117,Ethnicity,Asian,2023-11-28
+163,176117,Date of Birth,4/19/1966,2023-11-28
+164,176117,Account Type,Gold,2023-11-28
+165,791769,Ethnicity,Black,2023-11-04
+166,791769,Date of Birth,11/2/1968,2023-11-04
+167,791769,Account Type,Gold,2023-11-04
+168,145928,Ethnicity,Other,2023-11-23
+169,145928,Date of Birth,8/16/1941,2023-11-23
+170,145928,Account Type,Basic,2023-11-23
+171,311054,Ethnicity,Black,2023-11-26
+172,311054,Date of Birth,11/21/1956,2023-11-26
+173,311054,Account Type,Gold,2023-11-26
+174,575378,Ethnicity,White,2023-11-24
+175,575378,Date of Birth,4/7/1974,2023-11-24
+176,575378,Account Type,Platinum,2023-11-24
+177,390727,Ethnicity,Asian,2023-11-04
+178,390727,Date of Birth,10/9/1972,2023-11-04
+179,390727,Account Type,Basic,2023-11-04
+180,220298,Ethnicity,Asian,2023-11-12
+181,220298,Date of Birth,7/5/1978,2023-11-12
+182,220298,Account Type,Gold,2023-11-12
+183,808528,Ethnicity,White,2023-11-26
+184,808528,Date of Birth,4/5/1992,2023-11-26
+185,808528,Account Type,Gold,2023-11-26
+186,829132,Ethnicity,Other,2023-11-20
+187,829132,Date of Birth,5/19/1991,2023-11-20
+188,829132,Account Type,Gold,2023-11-20
+189,345518,Ethnicity,Black,2023-11-23
+190,345518,Date of Birth,12/22/1994,2023-11-23
+191,345518,Account Type,Platinum,2023-11-23
+192,753670,Ethnicity,Black,2023-11-14
+193,753670,Date of Birth,12/4/1991,2023-11-14
+194,753670,Account Type,Basic,2023-11-14
+0,931463,Ethnicity,Other,2023-12-22
+1,931463,Date of Birth,8/30/1978,2023-12-22
+2,931463,Account Type,Platinum,2023-12-22
+3,973596,Ethnicity,Other,2023-12-16
+4,973596,Date of Birth,2/22/1971,2023-12-16
+5,973596,Account Type,Platinum,2023-12-16
+6,158712,Ethnicity,Black,2023-12-13
+7,158712,Date of Birth,11/27/1948,2023-12-13
+8,158712,Account Type,Gold,2023-12-13
+9,829567,Ethnicity,Asian,2023-12-19
+10,829567,Date of Birth,5/17/2019,2023-12-19
+11,829567,Account Type,Gold,2023-12-19
+12,765708,Ethnicity,Black,2023-12-21
+13,765708,Date of Birth,6/27/1982,2023-12-21
+14,765708,Account Type,Basic,2023-12-21
+15,147410,Ethnicity,White,2023-12-08
+16,147410,Date of Birth,10/2/2008,2023-12-08
+17,147410,Account Type,Platinum,2023-12-08
+18,268700,Ethnicity,White,2023-12-04
+19,268700,Date of Birth,10/5/2008,2023-12-04
+20,268700,Account Type,Gold,2023-12-04
+21,932627,Ethnicity,Other,2023-12-12
+22,932627,Date of Birth,12/1/1953,2023-12-12
+23,932627,Account Type,Platinum,2023-12-12
+24,745654,Ethnicity,Other,2023-12-08
+25,745654,Date of Birth,11/25/1996,2023-12-08
+26,745654,Account Type,Gold,2023-12-08
+27,858465,Ethnicity,Black,2023-12-25
+28,858465,Date of Birth,7/2/1957,2023-12-25
+29,858465,Account Type,Basic,2023-12-25
+30,501352,Ethnicity,Black,2023-12-22
+31,501352,Date of Birth,6/29/1971,2023-12-22
+32,501352,Account Type,Basic,2023-12-22
+33,704040,Ethnicity,Asian,2023-12-06
+34,704040,Date of Birth,8/1/1993,2023-12-06
+35,704040,Account Type,Basic,2023-12-06
+36,926550,Ethnicity,Asian,2023-12-06
+37,926550,Date of Birth,10/31/1942,2023-12-06
+38,926550,Account Type,Basic,2023-12-06
+39,669150,Ethnicity,Black,2023-12-27
+40,669150,Date of Birth,10/27/1963,2023-12-27
+41,669150,Account Type,Platinum,2023-12-27
+42,232108,Ethnicity,Asian,2023-12-10
+43,232108,Date of Birth,1/24/2009,2023-12-10
+44,232108,Account Type,Gold,2023-12-10
+45,271167,Ethnicity,Asian,2023-12-15
+46,271167,Date of Birth,5/23/1944,2023-12-15
+47,271167,Account Type,Platinum,2023-12-15
+48,536823,Ethnicity,Black,2023-12-11
+49,536823,Date of Birth,6/17/1985,2023-12-11
+50,536823,Account Type,Gold,2023-12-11
+51,353144,Ethnicity,Other,2023-12-19
+52,353144,Date of Birth,12/8/2019,2023-12-19
+53,353144,Account Type,Gold,2023-12-19
+54,511565,Ethnicity,Black,2023-12-07
+55,511565,Date of Birth,3/17/1995,2023-12-07
+56,511565,Account Type,Platinum,2023-12-07
+57,722586,Ethnicity,White,2023-12-16
+58,722586,Date of Birth,5/15/1942,2023-12-16
+59,722586,Account Type,Gold,2023-12-16
+60,721246,Ethnicity,Asian,2023-12-13
+61,721246,Date of Birth,6/24/2002,2023-12-13
+62,721246,Account Type,Gold,2023-12-13
+63,878212,Ethnicity,White,2023-12-08
+64,878212,Date of Birth,3/1/1957,2023-12-08
+65,878212,Account Type,Basic,2023-12-08
+66,983979,Ethnicity,White,2023-12-27
+67,983979,Date of Birth,5/4/1954,2023-12-27
+68,983979,Account Type,Basic,2023-12-27
+69,428431,Ethnicity,Other,2023-12-09
+70,428431,Date of Birth,4/27/1993,2023-12-09
+71,428431,Account Type,Basic,2023-12-09
+72,306981,Ethnicity,Other,2023-12-07
+73,306981,Date of Birth,1/27/1983,2023-12-07
+74,306981,Account Type,Basic,2023-12-07
+75,285333,Ethnicity,Other,2023-12-08
+76,285333,Date of Birth,3/22/1948,2023-12-08
+77,285333,Account Type,Gold,2023-12-08
+78,779147,Ethnicity,Other,2023-12-27
+79,779147,Date of Birth,7/28/1989,2023-12-27
+80,779147,Account Type,Basic,2023-12-27
+81,163418,Ethnicity,Other,2023-12-28
+82,163418,Date of Birth,10/24/2017,2023-12-28
+83,163418,Account Type,Platinum,2023-12-28
+84,850734,Ethnicity,White,2023-12-19
+85,850734,Date of Birth,2/20/1968,2023-12-19
+86,850734,Account Type,Platinum,2023-12-19
+87,194739,Ethnicity,Other,2023-12-15
+88,194739,Date of Birth,3/29/2002,2023-12-15
+89,194739,Account Type,Basic,2023-12-15
+90,587714,Ethnicity,White,2023-12-01
+91,587714,Date of Birth,10/2/1952,2023-12-01
+92,587714,Account Type,Gold,2023-12-01
+93,343327,Ethnicity,Asian,2023-12-05
+94,343327,Date of Birth,6/12/1949,2023-12-05
+95,343327,Account Type,Gold,2023-12-05
+96,141861,Ethnicity,Other,2023-12-10
+97,141861,Date of Birth,6/13/2005,2023-12-10
+98,141861,Account Type,Gold,2023-12-10
+99,270858,Ethnicity,Black,2023-12-21
+100,270858,Date of Birth,8/24/2004,2023-12-21
+101,270858,Account Type,Basic,2023-12-21
+102,725107,Ethnicity,Black,2023-12-13
+103,725107,Date of Birth,5/7/1991,2023-12-13
+104,725107,Account Type,Gold,2023-12-13
+105,602470,Ethnicity,Black,2023-12-22
+106,602470,Date of Birth,7/12/2018,2023-12-22
+107,602470,Account Type,Gold,2023-12-22
+108,983034,Ethnicity,Asian,2023-12-06
+109,983034,Date of Birth,11/13/1972,2023-12-06
+110,983034,Account Type,Platinum,2023-12-06
+111,521080,Ethnicity,Black,2023-12-27
+112,521080,Date of Birth,4/26/1999,2023-12-27
+113,521080,Account Type,Platinum,2023-12-27
+114,618817,Ethnicity,Asian,2023-12-30
+115,618817,Date of Birth,12/22/1950,2023-12-30
+116,618817,Account Type,Gold,2023-12-30
+117,203942,Ethnicity,Asian,2023-12-28
+118,203942,Date of Birth,8/27/2016,2023-12-28
+119,203942,Account Type,Gold,2023-12-28
+120,906500,Ethnicity,Other,2023-12-14
+121,906500,Date of Birth,5/31/2007,2023-12-14
+122,906500,Account Type,Platinum,2023-12-14
+123,230685,Ethnicity,Other,2023-12-21
+124,230685,Date of Birth,2/17/1961,2023-12-21
+125,230685,Account Type,Platinum,2023-12-21
+126,679893,Ethnicity,Asian,2023-12-28
+127,679893,Date of Birth,7/2/1951,2023-12-28
+128,679893,Account Type,Basic,2023-12-28
+129,714000,Ethnicity,White,2023-12-28
+130,714000,Date of Birth,11/8/1999,2023-12-28
+131,714000,Account Type,Platinum,2023-12-28
+132,421991,Ethnicity,Other,2023-12-17
+133,421991,Date of Birth,9/9/1942,2023-12-17
+134,421991,Account Type,Gold,2023-12-17
+135,548663,Ethnicity,Asian,2023-12-04
+136,548663,Date of Birth,5/31/1949,2023-12-04
+137,548663,Account Type,Basic,2023-12-04
+138,906366,Ethnicity,Asian,2023-12-14
+139,906366,Date of Birth,5/15/2015,2023-12-14
+140,906366,Account Type,Gold,2023-12-14
+141,140408,Ethnicity,Black,2023-12-23
+142,140408,Date of Birth,3/17/1955,2023-12-23
+143,140408,Account Type,Gold,2023-12-23
+144,878212,Ethnicity,White,2023-12-22
+145,878212,Date of Birth,3/1/1957,2023-12-22
+146,878212,Account Type,Basic,2023-12-22
+147,759970,Ethnicity,White,2023-12-08
+148,759970,Date of Birth,8/22/1969,2023-12-08
+149,759970,Account Type,Gold,2023-12-08
+150,663205,Ethnicity,Black,2023-12-08
+151,663205,Date of Birth,3/30/1981,2023-12-08
+152,663205,Account Type,Platinum,2023-12-08
+153,441581,Ethnicity,White,2023-12-01
+154,441581,Date of Birth,7/6/2018,2023-12-01
+155,441581,Account Type,Gold,2023-12-01
+156,968967,Ethnicity,Asian,2023-12-07
+157,968967,Date of Birth,12/24/1992,2023-12-07
+158,968967,Account Type,Gold,2023-12-07
+159,226854,Ethnicity,White,2023-12-07
+160,226854,Date of Birth,8/3/1988,2023-12-07
+161,226854,Account Type,Gold,2023-12-07
+162,314848,Ethnicity,Asian,2023-12-14
+163,314848,Date of Birth,11/30/2015,2023-12-14
+164,314848,Account Type,Gold,2023-12-14
+165,471152,Ethnicity,Asian,2023-12-15
+166,471152,Date of Birth,9/29/1990,2023-12-15
+167,471152,Account Type,Platinum,2023-12-15
+168,868193,Ethnicity,White,2023-12-14
+169,868193,Date of Birth,9/11/1948,2023-12-14
+170,868193,Account Type,Basic,2023-12-14
+171,853101,Ethnicity,Other,2023-12-08
+172,853101,Date of Birth,4/13/1984,2023-12-08
+173,853101,Account Type,Basic,2023-12-08
+174,649104,Ethnicity,Other,2023-12-17
+175,649104,Date of Birth,3/5/1946,2023-12-17
+176,649104,Account Type,Platinum,2023-12-17
+177,376499,Ethnicity,Asian,2023-12-06
+178,376499,Date of Birth,1/27/1969,2023-12-06
+179,376499,Account Type,Platinum,2023-12-06
+180,657908,Ethnicity,Asian,2023-12-19
+181,657908,Date of Birth,8/21/1973,2023-12-19
+182,657908,Account Type,Platinum,2023-12-19
+183,855858,Ethnicity,White,2023-12-15
+184,855858,Date of Birth,11/20/1959,2023-12-15
+185,855858,Account Type,Platinum,2023-12-15
+186,128635,Ethnicity,Asian,2023-12-12
+187,128635,Date of Birth,6/16/2012,2023-12-12
+188,128635,Account Type,Basic,2023-12-12
+189,864964,Ethnicity,Black,2023-12-16
+190,864964,Date of Birth,1/8/1973,2023-12-16
+191,864964,Account Type,Platinum,2023-12-16
+192,704688,Ethnicity,Other,2023-12-28
+193,704688,Date of Birth,1/2/2017,2023-12-28
+194,704688,Account Type,Basic,2023-12-28
+195,130835,Ethnicity,White,2023-12-04
+196,130835,Date of Birth,6/7/1984,2023-12-04
+197,130835,Account Type,Basic,2023-12-04
+198,135215,Ethnicity,Other,2023-12-23
+199,135215,Date of Birth,2/18/1955,2023-12-23
+200,135215,Account Type,Platinum,2023-12-23
+201,537959,Ethnicity,Black,2023-12-12
+202,537959,Date of Birth,10/23/2017,2023-12-12
+203,537959,Account Type,Gold,2023-12-12
+204,461508,Ethnicity,Other,2023-12-02
+205,461508,Date of Birth,7/12/1996,2023-12-02
+206,461508,Account Type,Gold,2023-12-02
+207,765987,Ethnicity,Black,2023-12-22
+208,765987,Date of Birth,6/25/1989,2023-12-22
+209,765987,Account Type,Platinum,2023-12-22
+210,607350,Ethnicity,Other,2023-12-22
+211,607350,Date of Birth,5/12/1972,2023-12-22
+212,607350,Account Type,Gold,2023-12-22
+213,594256,Ethnicity,Other,2023-12-25
+214,594256,Date of Birth,3/6/1989,2023-12-25
+215,594256,Account Type,Gold,2023-12-25
+216,554998,Ethnicity,Black,2023-12-16
+217,554998,Date of Birth,11/6/1997,2023-12-16
+218,554998,Account Type,Platinum,2023-12-16
+219,305736,Ethnicity,Asian,2023-12-16
+220,305736,Date of Birth,8/15/1978,2023-12-16
+221,305736,Account Type,Basic,2023-12-16
+222,237507,Ethnicity,Black,2023-12-02
+223,237507,Date of Birth,4/6/1944,2023-12-02
+224,237507,Account Type,Basic,2023-12-02
+225,187833,Ethnicity,Other,2023-12-20
+226,187833,Date of Birth,4/8/1992,2023-12-20
+227,187833,Account Type,Basic,2023-12-20
+228,694973,Ethnicity,Other,2023-12-21
+229,694973,Date of Birth,10/24/2017,2023-12-21
+230,694973,Account Type,Platinum,2023-12-21
+231,334199,Ethnicity,White,2023-12-05
+232,334199,Date of Birth,5/11/2003,2023-12-05
+233,334199,Account Type,Gold,2023-12-05
+234,801415,Ethnicity,Asian,2023-12-02
+235,801415,Date of Birth,7/7/2010,2023-12-02
+236,801415,Account Type,Gold,2023-12-02
+237,560261,Ethnicity,Black,2023-12-15
+238,560261,Date of Birth,3/4/1949,2023-12-15
+239,560261,Account Type,Platinum,2023-12-15
+240,947772,Ethnicity,Asian,2023-12-27
+241,947772,Date of Birth,9/14/1964,2023-12-27
+242,947772,Account Type,Gold,2023-12-27
+243,923843,Ethnicity,White,2023-12-24
+244,923843,Date of Birth,12/11/2015,2023-12-24
+245,923843,Account Type,Gold,2023-12-24
+246,480246,Ethnicity,Asian,2023-12-08
+247,480246,Date of Birth,4/13/1982,2023-12-08
+248,480246,Account Type,Platinum,2023-12-08
+249,716900,Ethnicity,Asian,2023-12-18
+250,716900,Date of Birth,9/30/2003,2023-12-18
+251,716900,Account Type,Gold,2023-12-18
+252,592566,Ethnicity,Asian,2023-12-30
+253,592566,Date of Birth,5/8/1989,2023-12-30
+254,592566,Account Type,Basic,2023-12-30
+255,119168,Ethnicity,Asian,2023-12-15
+256,119168,Date of Birth,4/15/2015,2023-12-15
+257,119168,Account Type,Basic,2023-12-15
+258,970548,Ethnicity,Asian,2023-12-12
+259,970548,Date of Birth,5/9/1996,2023-12-12
+260,970548,Account Type,Platinum,2023-12-12
+261,569923,Ethnicity,Other,2023-12-04
+262,569923,Date of Birth,12/30/1975,2023-12-04
+263,569923,Account Type,Gold,2023-12-04
+264,354147,Ethnicity,Black,2023-12-20
+265,354147,Date of Birth,4/14/2019,2023-12-20
+266,354147,Account Type,Gold,2023-12-20
+267,174699,Ethnicity,Asian,2023-12-02
+268,174699,Date of Birth,3/13/1989,2023-12-02
+269,174699,Account Type,Gold,2023-12-02
+270,514598,Ethnicity,Other,2023-12-28
+271,514598,Date of Birth,10/10/1971,2023-12-28
+272,514598,Account Type,Platinum,2023-12-28

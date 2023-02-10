@@ -15,4 +15,5 @@ Code for the Preppin' Data Challenge, a weekly challenge on preparing/reshaping 
 |-:|:--------------------------------------------------|:-:|:-:|:-:|
 |1|The Data Source Bank|[📋](####)|[✅](https://github.com/benedictdebrah/Data-Preppin-/tree/main/W1)||
 |2|International Bank Account|[📋](####)|[✅](https://github.com/benedictdebrah/Data-Preppin-/tree/main/W2)|https://youtu.be/I66brI3AF8w|
-
+|3|Targets For DSB|[📋](####)|[✅](https://github.com/benedictdebrah/Data-Preppin-/tree/main/W3)||
+|4|New Customers|[📋](####)|[✅](https://github.com/benedictdebrah/Data-Preppin-/tree/main/W4)||

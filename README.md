@@ -18,3 +18,5 @@ Code for the Preppin' Data Challenge, a weekly challenge on preparing/reshaping 
 |3|Targets For DSB|[📋](####)|[✅](https://github.com/benedictdebrah/Data-Preppin-/tree/main/W3)||
 |4|New Customers|[📋](####)|[✅](https://github.com/benedictdebrah/Data-Preppin-/tree/main/W4)||
 |5|DSB ranking|[📋](####)|[✅](https://github.com/benedictdebrah/Data-Preppin-/tree/main/W5)||
+|6|DSB customer ratings|[📋](####)|[✅](https://github.com/benedictdebrah/Data-Preppin-/tree/main/W6)||
+|7|FFS|[📋](####)|[✅](https://github.com/benedictdebrah/Data-Preppin-/tree/main/W7)||
